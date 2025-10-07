@@ -1,4 +1,4 @@
-# USPA TD Support — Tournated TMS Guide
+# TMS Guide
 
 > **Audience:** Tournament Directors (TDs) and club staff using the **Tournated Tournament Management Software (TMS)** in partnership with **WPR** and the **USPA**.
 

@@ -1,8 +1,8 @@
-# Getting Started
+# Account Setup
 
 ## Access & Setup
 
-**Do this ≥ 8 weeks before your event:**
+**Do this at least 8 weeks before your event:**
 
 1. Email **[tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com)** with:
 

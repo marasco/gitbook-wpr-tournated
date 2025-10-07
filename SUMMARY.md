@@ -4,15 +4,14 @@
 
 ## Getting Started
 
-* [USPA TD Support — Overview](getting-started/README.md)
-* [Access & Setup](getting-started/getting-started.md)
+* [TMS Guide](getting-started/README.md)
+* [Account Setup](getting-started/account-setup.md)
 * [Tournament Setup](getting-started/tournament-setup.md)
 * [Entry Policy & Deadlines](getting-started/entry-policy.md)
 * [Entries Review & Export](getting-started/entries-review.md)
 * [Seeding](getting-started/seeding.md)
 * [Draws & Schedule](getting-started/draws-and-schedule.md)
 * [Score Entry](getting-started/score-entry.md)
-* [Training & Resources](getting-started/training-and-resources.md)
 * [Appendix](getting-started/appendix.md)
 
 ## Training Resources
