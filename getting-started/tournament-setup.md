@@ -26,7 +26,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 * **Description:** Paste this **mandatory text** (edit only if instructed by USPA):
 
   * Players should enter the division they would prefer to play in. 
-  * If oversubscribed, USPA rankings + verified WPR ratings determine placement (see USPA Rule Book).
+  * If oversubscribed, USPA rankings + verified WPR ratings determine placement (see [USPA Rule Book](https://padelusa.org/competition/rules-and-regulations/)).
   * USPA may move any team entered clearly below its ability.
   * Individual scheduling requests aren’t accommodated. 
   * Tournament-specific questions → contact the tournament director (USPA/WPR won’t answer those). 
