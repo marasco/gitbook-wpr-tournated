@@ -15,7 +15,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 ---
 
-## General
+## 1. General
 
 * **Categories:** Select **one by one**.
 * **Payment method:** **Online**
@@ -24,7 +24,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 ---
 
-## Dates & Location
+## 2. Dates & Location
 
 * **Entry Deadline & Withdrawal Deadline:** Use the **same date/time** (mind **time zones**).
 
@@ -34,7 +34,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 ---
 
-## Appearance
+## 3. Appearance
 
 * **Logo:** Use your club logo (recommended).
 
@@ -57,13 +57,13 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 ---
 
-## Schedule (Optional)
+## 4. Schedule (Optional)
 
 Use for **high‑level events** (e.g., player party, practice court blocks) to appear on the public page. **Do not** enter specific match times here (those are set later).
 
 ---
 
-## Tournament Registration
+## 5. Tournament Registration
 
 * **Additional Questions:** Add custom fields (e.g., T‑shirt size, image upload). Can be per category and mandatory/optional.
 * **Terms & Conditions:** Paste club/venue waiver or similar text for acceptance at entry.
@@ -75,13 +75,13 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 
 ---
 
-## Extras
+## 6. Extras
 
 * **Skip** (not required).
 
 ---
 
-## Management
+## 7. Management
 
 * **Organizer:** Select **you/your organization**.
 * **Referees:** Skip (unless applicable).
@@ -89,13 +89,13 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 
 ---
 
-## Fact Sheet (Optional)
+## 8. Fact Sheet (Optional)
 
 * You can upload a **Fact Sheet** later via the **Documents** tab (appears in the sidebar after submission).
 
 ---
 
-## Discounts (Optional)
+## 9. Discounts (Optional)
 
 * Configure if desired.
 * **USPA policy note:** In sanctioned tournaments, players may only enter multiple divisions if one is **Mixed or Coed** (e.g., **Men's D1 + Mixed D1**). Entries like **Men's D1 + Men's D2** (even with different partners) are **not permitted**.
