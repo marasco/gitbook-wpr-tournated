@@ -25,7 +25,16 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 * **Description:** Paste this **mandatory text** (edit only if instructed by USPA):
 
-  > Players should enter the division they would prefer to play in. If more teams enter than spaces are available, USPA rankings and WPR ratings will determine the divisions. See USPA Rule Book for complete details. If a team enters a division that the USPA determines is clearly below its ability, then the USPA has the right to move the team. Individual scheduling requests cannot be accommodated. Any questions about the tournament should be sent to the tournament director. The USPA and World Padel Rating teams are unable to answer tournament‑specific questions. To withdraw prior to the entry/withdrawal deadline, players must visit the tournament listing → click "My Details" or the ticket icon → click "Withdraw". To change partners before the entry/withdrawal deadline, players must email the tournament director. To withdraw or change partners after the entry/withdrawal deadline, players must email the tournament director. In Division 1 of USPA 2500, 2000, 1500, 1000 and 500, partner changes are not allowed after the draw has been published. No refunds will be given for withdrawals after the entry/withdrawal deadline.
+  * Players should enter the division they would prefer to play in. 
+  * If oversubscribed, USPA rankings + verified WPR ratings determine placement (see USPA Rule Book).
+  * USPA may move any team entered clearly below its ability.
+  * Individual scheduling requests aren’t accommodated. 
+  * Tournament-specific questions → contact the tournament director (USPA/WPR won’t answer those). 
+  * Before the deadline: tournament listing → My Details / ticket icon → Withdraw. 
+  * Partner changes before the deadline → email the TD. 
+  * After the deadline: email the TD for withdrawals/partner changes. 
+    * In D1 of USPA 2500/2000/1500/1000/500, no partner changes after the draw is published. 
+  * No refunds for withdrawals after the deadline.
 
 * **Tournament Poster:** Upload a **800 × 800** poster (follow USPA guidelines).
 
