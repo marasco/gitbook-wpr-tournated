@@ -4,7 +4,7 @@
 
 ## Quick‑Start
 
-* [ ] Get access to your club's **TMS** (manager.tournated.com) and connect **Stripe**.
+* [ ] Get access to your club's **TMS** ([manager.tournated.com](https://manager.tournated.com)) and connect **Stripe**.
 * [ ] Verify your event appears on the **USPA Calendar**.
 * [ ] Create your tournament in **TMS** and **submit for USPA approval** (≥ 8 weeks prior).
 * [ ] Configure **General settings**, **Dates & Location**, **Appearance**, and **Management**.
@@ -18,7 +18,7 @@
 
 The USPA, in partnership with WPR, uses **Tournated TMS** for the end‑to‑end tournament flow: listing, player entry and payment, draws, schedules, and scores. This improves the experience for players, clubs, and TDs.
 
-* **Players enter and pay** at **`https://uspa.worldpadelrating.com`**.
+* **Players enter and pay** at [https://uspa.worldpadelrating.com](https://uspa.worldpadelrating.com).
 * **Entry fees** are paid **directly to the club** via the club's **Stripe** connected to the TMS (real‑time).
 * **TDs** are responsible for learning and operating the TMS; **WPR** and **USPA** provide support and oversight.
 
@@ -26,10 +26,10 @@ The USPA, in partnership with WPR, uses **Tournated TMS** for the end‑to‑end
 
 **Support**
 
-* General TD queries: **[tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com)**
-* Technical/TMS issues: **[hello@tournated.com](mailto:hello@tournated.com)**
+* General TD queries: [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com)
+* Technical/TMS issues: [hello@tournated.com](mailto:hello@tournated.com)
 
 **Portals**
 
-* Player portal: **`https://uspa.worldpadelrating.com`**
-* Manager portal (TMS): **`https://manager.tournated.com`**
+* Player portal: [https://uspa.worldpadelrating.com](https://uspa.worldpadelrating.com)
+* Manager portal (TMS): [https://manager.tournated.com](https://manager.tournated.com)

@@ -2,7 +2,7 @@
 
 ## Create Your Tournament (TMS → "+ Create → Tournament")
 
-You can log in via **`manager.tournated.com`**. If your email is the same as your WPR player profile email, you can also log in via **uspa.worldpadelrating.com** (player portal) and then click **"Manager"** (top‑right menu).
+You can log in via [manager.tournated.com](https://manager.tournated.com). If your email is the same as your WPR player profile email, you can also log in via [uspa.worldpadelrating.com](https://uspa.worldpadelrating.com) (player portal) and then click **"Manager"** (top‑right menu).
 
 ## Settings → General
 
@@ -81,4 +81,4 @@ Configure per category (open the **pencil icon / CHANGE SETTINGS**):
 
 ## Approval & Public Listing
 
-After submission, the USPA reviews and approves. Once approved, your event is publicly listed and open for entries at **`uspa.worldpadelrating.com`**. Complete this **≥ 8 weeks** before the event.
+After submission, the USPA reviews and approves. Once approved, your event is publicly listed and open for entries at [uspa.worldpadelrating.com](https://uspa.worldpadelrating.com). Complete this **≥ 8 weeks** before the event.

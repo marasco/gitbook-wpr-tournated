@@ -9,7 +9,7 @@
 
 ### Unlock Tournament Desk
 
-1. In the **Admin Desk** (`uspa.worldpadelrating.com/<yourclub>/Admin`):
+1. In the **Admin Desk** ([uspa.worldpadelrating.com/\<yourclub\>/Admin](https://uspa.worldpadelrating.com)):
 
    * **Tournaments →** open the **active tournament** → **Players → Player selections**.
    * Finalize selections **per event** (Men's Doubles, Women's Doubles, etc.) and then **All events**.

@@ -7,7 +7,7 @@ At the **Entry Deadline**:
 1. Open the **Entries** tab and review the items below.
 2. Make any necessary changes.
 3. Click **Export → Download Data for All Categories** to obtain the **Entry List**.
-4. Email the file to **[info@padelusa.org](mailto:info@padelusa.org)** and **[tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com)** for **seeding**.
+4. Email the file to [info@padelusa.org](mailto:info@padelusa.org) and [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) for **seeding**.
 
 ## What to Review in Entries
 
