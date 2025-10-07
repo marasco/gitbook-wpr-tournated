@@ -5,6 +5,8 @@
 * **USPA 100 & Age Group Local:** **Tuesday 2:00pm ET** (tournament week).
 * **All other USPA events:** **Monday 2:00pm ET** (tournament week).
 
+> **Important:** Clubs that do not publish draws & schedule by these deadlines risk the cancellation of future tournaments by the USPA.
+
 ## Step‑by‑step
 
 ### Unlock Tournament Desk

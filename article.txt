@@ -1,0 +1,129 @@
+TMS Support
+This page is a resource for Tournament Directors (TDs). In partnership with WPR, the USPA now uses Tournated tournament management software (TMS) for the end to end process of a tournament: listing, player entry and payment, draws, schedules and scores. The software will improve the experience for players, clubs, and TDs. TDs are responsible for learning the software and managing all aspects of their tournaments. WPR will support TDs in this process. 
+The website players should visit to enter and pay for tournaments is uspa.worldpadelrating.com, not the WPR website anymore. All entry fees will be paid to the club directly in real-time through the club’s Stripe connected to the TMS.
+TDs should log into and learn the Tournated TMS at least 8 weeks prior to their tournament. If you have not yet accessed your club’s TMS account, the setup process is: 
+Please contact tduspa@worldpadelrating.com, providing: the i) email & phone you want publicly listed on the TMS for your main tournament director and ii) name(s) & email(s) of any club staff you want to have access to the TMS.
+Then, you will receive: i) password(s) for you (and your club staff) to access the TMS via manager.tournated.com, ii) a Stripe link for you to connect your Stripe to the TMS. 
+Please connect your Stripe to the TMS using the link, and email tduspa@worldpadelrating.com to advise once you’ve done so. 
+Then, once Tournated confirms the Stripe connection request, adds club staff as team members to your organization & venue in the platform, you are all set to create your first tournament.
+To ensure a successful tournament, the following steps must occur:
+Calendar:
+TDs should check that their tournament is on the USPA Calendar.
+
+
+Tournament Creation:
+TDs should create their tournament in the TMS and submit it for approval. The steps for creating a tournament are:
+Login to the TMS via manager.tournated.com. (Or, if the email address used is the email associated with you/your staff’s WPR player profile, you can also login via uspa.worldpadelrating.com using WPR player profile email & password, then, once logged in, clicking “Manager” in the top-right dropdown menu.)
+Click the “+ Create → Tournament” button top right.
+Complete all the Settings tabs:
+2.1 General: 
+Select Categories = select one-by-one
+Payment method = Online
+Payment type = Per pair
+Number of Courts = # being used for the tournament
+2.2 Dates & Location:
+Entry Deadline & Withdrawal Deadline = input the same date/time. (*Please be mindful of time zones.)
+For USPA 100 & Age Group Local tournaments: Monday 8pm ET, the week of the tournament.
+For all other USP tournaments: Thursday 12pm (noon) local time, the week before the tournament.
+Venue = select your club(s).
+2.3 Appearance:
+Logo = your club logo is recommended. Tournament-specific cover banner will be uploaded later.
+Description = Copy-paste the following mandatory text: “Players should enter the division they would prefer to play in. If more teams enter than spaces are available, USPA rankings and WPR ratings will determine the divisions. See USPA Rule Book for complete details. If a team enters a division that the USPA determines is clearly below its ability, then the USPA has the right to move the team. Individual scheduling requests cannot be accommodated. Any questions about the tournament should be sent to the tournament director. The USPA and World Padel Rating teams are unable to answer tournament-specific questions. To withdraw prior to the entry/withdrawal deadline, players must visit the tournament listing → click “My Details” or the ticket icon → click “Withdraw”. To change partners before the entry/withdrawal deadline, players must email the tournament director. To withdraw or change partners after the entry/withdrawal deadline, players must email the tournament director. In Division 1 of USPA 2500, 2000, 1500, 1000 and 500, partner changes are not allowed after the draw has been published. No refunds will be given for withdrawals after the entry/withdrawal deadline.”
+Tournament Poster = Create and upload using these guidelines a 800 x 800 poster <
+Cover Banner = Create and upload using these guidelines a 2400 x 600 banner. (*Please note the banner dimensions are now different from previous USPA template flyers). 
+2.4 Schedule:
+This section can be skipped. It is for noting overarching tournament schedule events (e.g. player party, practice court availability block, etc.) to appear on the public tournament page, not for specific match times (these are inputted later).
+2.5 Tournament Registration:
+This section contains some options related to the player registration flow as follows:
+Additional Questions = can be used for, e.g., asking players what t-shirt size or upload pictures as part of the registration form. There are multiple options like split questions per category, or make them mandatory, etc.
+Terms and Conditions = can be used for, e.g., having players accept a club injury waiver form if the waiver form’s text is uploaded here.
+External registration link: You could avoid registering people using this flow and redirect the button “Register” to a link you provide. It’s not useful in general because players won’t be at TMS at the end of the day.
+Welcome/Success messages (optional) to say thanks or provide extra information before and after the registration process.
+You can enable/disable notification emails to you and to the players informing about new registrations and approving them.
+You can enable “automatic confirmation entries” to avoid an approval process in the TMS.
+You can enable or not to cover platform fees and Stripe fees (cover = included in the registration fee)
+2.6 Extras:
+This section should be skipped.
+2.7 Management: 
+Select organizer = you
+Skip referees.
+Tournament status = Active
+2.8 Fact Sheet:
+This section should be skipped. If you would like to upload a Fact Sheet, you can do so via a “Documents” tab that appears in the sidebar once the tournament has been submitted.
+2.9 Discounts: 
+Skip or set up as desired. (*Note that in USPA sanctioned tournaments, players may only enter multiple divisions if 1 is Mixed or Coed - e.g. Men’s D1 + Mixed D1. But, e.g., Men’s D1 + Men’s D2, even with two different partners, is not permitted.)
+Click submit. i) General Settings are now complete. ii) Categories and iii) Courts remain.
+2.10 Categories: 
+This section can be skipped.
+To configure items within this section, for each respective category 1-by-1 or select-all, click on the pen icon / CHANGE SETTINGS:
+2.10.1 General: Here you can change the category color.
+2.10.2 Participants & Seedings: Here you can enter if you would like to set limits for maximum # of teams entered for each category. (*Do not touch seeds here. Seeds are assigned later, with the # of seeds dependent on the # of teams entered.)
+2.10.3 Payments: Here you can add VAT (tax).
+2.10.4 Group Stage Points Allocation: Here is for standings logic in round robin draws. (*Do not touch; the default is set per USPA rules.)
+2.11 Courts: 
+This section should be skipped.
+
+
+(*Tournament Cancellation Policy: To maintain the integrity of the national calendar and ensure quality events, tournaments will be automatically cancelled three (3) weeks prior to the scheduled date if the host club has not submitted their entry fee and their created tournament. Multiple reminder emails are sent beginning 90 days out. We encourage clubs to stay responsive and submit all required materials on time to avoid removal from the calendar.)
+
+
+Approval:
+Once the created tournament is submitted in the TMS (Step 2), it needs to be approved/confirmed by the USPA. Once approved, the tournament will be publicly listed and open for entries at uspa.worldpadelrating.com. This process should be completed at least eight weeks before the tournament. 
+
+
+Entries open:
+TDs should encourage all players to enter on the tournament’s registration page prior to the entry deadline. All players need a WPR profile, whether that is to enter themselves or to be entered as someone’s partner. If a player cannot enter on their own, a TD may choose to assist with the entry. WPR cannot assist in manually entering players. USPA 100 and Age Group Local tournaments only require a free USPA account while USPA 250s+ and Age Group Regionals+ require a paid USPA membership; the registration page will guide players to get the appropriate credentials if they do not have them.   
+
+
+Entry Deadlines: 
+USPA 100 & Age Group Local tournaments: Monday 8pm ET, the week of the tournament. No late entries accepted (zero tolerance). 
+All other USPA tournaments: Thursday 12pm (noon) local time, the week before the tournament. You may add late entries in the TMS (instructions below) until Sunday, which is the absolute deadline - for the USPA to review all entries for seeding with ample time for you to publish draws & schedules by Monday 2pm ET at the very latest. 
+
+
+Entries review & finalization, and sending Entry List to USPA / WPR for seeding:
+At the Entry Deadline, TDs should promptly review the “Entries” tab for the following items, and, after making any necessary changes, download the Entry List (“Entries” tab → “Export” button → “Download Data for All Categories” button) and send it to info@padelusa.org & tduspa@worldpadelrating.com for seeding.
+
+
+TDs should review the “Entries” tab for the following items: 
+i) All players have entered in appropriate divisions with the correct partners. The TD is advised to notify players affected by changes, if any.
+To change a team’s division: Click the “...” button to the rightmost side of their names → click “Edit” → in the popup, select the desired division from the “Select category” dropdown menu. The team should then be visible/counted on the entry list for the new division.
+To change a partner within a team: Click the “...” button to the rightmost side of their names → click “Edit” → in the popup, enter the new player’s WPR ID or WPR-associated email address in the corresponding place (Player or Second Player) of the player being swapped out. (A player’s WPR ID is only visible to the player themselves; it is found under their name on their WPR profile page https://app.worldpadelrating.com/profile.) (*Note that a player won’t be able to be added here if they don’t have the required Free USPA Account or Paid USPA Membership for the tournament.)
+To withdraw a team (e.g. in the case of a cancelled division): Click the “...” button to the rightmost side of their names → “Withdraw Entry”.  
+ii) Total entries do not exceed what a club can accommodate. 
+(If exceed, notify the USPA, whose rules for draws will determine which teams 
+qualify to play, and WPR to assist with refunding unselected teams.)
+iii) Any late entries, if accepted at the TD’s discretion, are included.
+To add a late entry team: Click the “+ Add new Entry” button → in the popup, enter the players’ WPR ID or WPR-associated email addresses. All players with a WPR profile will be retrievable here regardless of whether they have participated in a tournament on the TMS yet; there is no additional sync required by the player. (*Note that a player won’t be able to be added here if they don’t have the required Free USPA Account or Paid USPA Membership for the given tournament.) Please note that it is the TD’s responsibility to collect payment from any late entry teams. Payments must be managed outside of the TMS, by whatever method you prefer. You will see “No Payment” listed next to their name, with an orange “+” button that you can use to manually update their payment status for recordkeeping. 
+iv) Refund any withdrawn teams from your Stripe dashboard. <
+v) You have noted the required draw formatting for respective divisions given the number of teams entered.
+(Formatting summary: Round robin if 7 or fewer teams; 2 groups with a 1st Place Playoff (3rd & 5th Place Playoffs optional at TD’s discretion) if 6-7 teams; 1 group with no playoff if 5 or fewer teams; no semifinals in round robins; First match loser consolation draw format if 8+ teams. USPA 100 & Age Group Local have more flexibility on format at TD’s discretion – please check with the USPA beforehand.)
+
+
+Seeding:
+Once the USPA receives the TD’s email with the finalized Entry List file attached, the USPA will confirm points for assigning seeds, updating the Entry List file with these denoted to the TD. Seeding criteria is USPA circuit ranking points followed by verified WPR player ratings; seeds are not arbitrarily assigned and are not to be changed by the TD. (3-5 teams = 0 seeds, 6-11 teams = 2 seeds, 12-23 teams = 4 seeds, 24-64 teams = 8 seeds.) 
+
+
+Draws & Schedule:
+	Once the USPA has completed seedings on the Entry List, the TD can create the 
+draws & schedule. TDs must publish the draws & schedule by the following times 
+or earlier, and inform info@padelusa.org & tduspa@worldpadelrating.com when 
+they are complete: 
+USPA 100 & Age Group Local tournaments: Tuesday 2pm ET, the week of the tournament.
+All other USPA tournaments: Monday 2pm ET, the week of the tournament.  
+Clubs that do not publish draws & schedule by Tuesday 2pm ET (for USPA 100 & Age Group Local tournaments) / Monday 2pm ET (for all other USPA tournaments) risk the cancellation of future tournaments by the USPA. 
+
+To publish, click both the green “Publish order of play” button on the Schedule tab and the green “Publish” button on the Events tab.
+
+
+Score entry:
+TDs use the TMS for in-tournament management – scores automatically populate on the public draws when entered in the draws within the TMS.
+‘Add score’ instructions: 
+Games should be divided with ':' symbol (colon). Example: 6:4 6:7(5:7) [10:6]
+Tiebreak (if played) should be included in parentheses '()' and go after the game without space. Example: 7:6(7:1) 7:6(7:4)
+Deciding tiebreak (if played) should be included in square brackets "[]". Example: 6:4 6:7(3:7) [10:6]
+Set score to empty field or match winner to "Match not finished" and status of match will be automatically changed to "Upcoming"
+You will be prompted to select the winning team (click the rectangle containing their names) in order to save the match score.
+
+
+For any other questions or issues, please email tduspa@worldpadelrating.com. Technical questions or issues, please email hello@tournated.com. 
+

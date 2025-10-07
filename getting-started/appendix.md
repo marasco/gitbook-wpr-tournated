@@ -13,4 +13,8 @@
 
 ---
 
-> **Version note:** This GitBook‑ready document consolidates the prior draft, removes internal notes, and standardizes language for clarity and consistency. Update policies/timings only upon USPA instruction.
+## Support Contacts
+
+For any other questions or issues, please email [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com).
+
+Technical questions or issues, please email [hello@tournated.com](mailto:hello@tournated.com).
