@@ -4,14 +4,14 @@
 
 You can log in via [manager.tournated.com](https://manager.tournated.com). If your email is the same as your WPR player profile email, you can also log in via [uspa.worldpadelrating.com](https://uspa.worldpadelrating.com) (player portal) and then click **"Manager"** (top‑right menu).
 
-## Settings → General
+## General
 
 * **Categories:** Select **one by one**.
 * **Payment method:** **Online**
 * **Payment type:** **Per pair**
 * **Number of courts:** Enter the number available for the tournament.
 
-## Settings → Dates & Location
+## Dates & Location
 
 * **Entry Deadline & Withdrawal Deadline:** Use the **same date/time** (mind **time zones**).
 
@@ -19,7 +19,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
   * **All other USPA events:** **Thursday 12:00pm (local)** (week **before** the tournament).
 * **Venue:** Select your club(s).
 
-## Settings → Appearance
+## Appearance
 
 * **Logo:** Use your club logo (recommended).
 
@@ -40,11 +40,11 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 * **Cover Banner:** Upload a **2400 × 600** banner (current dimensions differ from previous templates; use the latest USPA guidelines).
 
-## Settings → Schedule (Optional)
+## Schedule (Optional)
 
 Use for **high‑level events** (e.g., player party, practice court blocks) to appear on the public page. **Do not** enter specific match times here (those are set later).
 
-## Settings → Tournament Registration
+## Tournament Registration
 
 * **Additional Questions:** Add custom fields (e.g., T‑shirt size, image upload). Can be per category and mandatory/optional.
 * **Terms & Conditions:** Paste club/venue waiver or similar text for acceptance at entry.
@@ -54,21 +54,21 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 * **Automatic Confirmation:** Enable if you don't want a manual approval step.
 * **Fee Coverage:** Choose whether the club covers platform/Stripe fees or passes them to players.
 
-## Settings → Extras
+## Extras
 
 * **Skip** (not required).
 
-## Settings → Management
+## Management
 
 * **Organizer:** Select **you/your organization**.
 * **Referees:** Skip (unless applicable).
 * **Tournament status:** **Active**.
 
-## Settings → Fact Sheet (Optional)
+## Fact Sheet (Optional)
 
 * You can upload a **Fact Sheet** later via the **Documents** tab (appears in the sidebar after submission).
 
-## Settings → Discounts (Optional)
+## Discounts (Optional)
 
 * Configure if desired.
 * **USPA policy note:** In sanctioned tournaments, players may only enter multiple divisions if one is **Mixed or Coed** (e.g., **Men's D1 + Mixed D1**). Entries like **Men's D1 + Men's D2** (even with different partners) are **not permitted**.
