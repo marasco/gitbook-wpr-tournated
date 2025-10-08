@@ -26,8 +26,9 @@ Once the USPA has completed seedings on the Entry List, the TD can create the dr
   
   Below a few screenshots of a group setup and a knockout stage with entries:
 
-  ![CategoryImage](<../.gitbook/assets/screen_4.png>)
-  ![CategoryImage](<../.gitbook/assets/screen_5.png>)
+    ![RoundRobin](<../.gitbook/assets/screen_4.png>)
+
+    ![Elimination](<../.gitbook/assets/screen_5.png>)
 
 
 ## Publish Deadlines
