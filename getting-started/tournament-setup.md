@@ -65,13 +65,15 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 
 ## 5. Tournament Registration
 
+All items optional. Important: Mind your selections for the two Fee Coverage choices at the bottom.
+
 * **Additional Questions:** Add custom fields (e.g., T‑shirt size, image upload). Can be per category and mandatory/optional.
 * **Terms & Conditions:** Paste club/venue waiver or similar text for acceptance at entry.
-* **External Registration Link:** Redirects the "Register" button elsewhere. **Generally not recommended** (players should register in TMS).
-* **Welcome/Success Messages:** Optional pre‑ and post‑registration messages to players.
+* **External Registration Link:** Redirects the "Register" button elsewhere. **DO NOT USE** (players should register in TMS).
+* **Welcome/Success Messages:** Optional Pre and post‑registration messages to players.
 * **Email Notifications:** Enable/disable notifications to TD and players for new/approved entries.
 * **Automatic Confirmation:** Enable if you don't want a manual approval step.
-* **Fee Coverage:** Choose whether the club covers platform/Stripe fees or passes them to players.
+* **Fee Coverage:** Choose whether the club or the player covers platform/Stripe fees.
 
 ---
 
@@ -100,28 +102,32 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 * Configure if desired.
 * **USPA policy note:** In sanctioned tournaments, players may only enter multiple divisions if one is **Mixed or Coed** (e.g., **Men's D1 + Mixed D1**). Entries like **Men's D1 + Men's D2** (even with different partners) are **not permitted**.
 
+
+## 10. Submit & Approval
+
+**Submit:** When finished with all settings, click **Submit**. USPA will review/approve the tournament for public listing.
+
+General Settings are now complete.
+
 ---
 
-## Categories (Optional)
+## 11. Categories (Optional)
 
 Configure per category (open the **pencil icon / CHANGE SETTINGS**):
 
 * **General:** Category color.
-* **Participants & Seedings:** Set **maximum teams** if needed. (**Do not** assign seeds here; seeding is returned later based on entries.)
+* **Participants & Seedings:** Set **maximum teams** if needed. (**Do not** enter # of seeds here; # of seeds is determined later based on entries)
 * **Payments:** Add **VAT/tax** if applicable.
-* **Group Stage Points Allocation:** Default is set per USPA rules (leave as is unless instructed).
+* **Group Stage Points Allocation:** Default is set per USPA rules for round robin standings. (Leave as is unless instructed).
 
 ---
 
-## Courts (Optional)
+## 12. Courts (Optional)
 
-* **Skip** (courts are configured later in Tournament Desk for scheduling).
+* **Skip** (Courts are configured later, during scheduling).
 
 ---
 
-## Submit & Approval
-
-**Submit:** When finished with all settings, click **Submit**. USPA will review/approve the tournament for public listing.
 
 ### Approval & Public Listing
 

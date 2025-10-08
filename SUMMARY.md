@@ -5,14 +5,17 @@
 ## Getting Started
 
 * [TMS Guide](getting-started/README.md)
-* [Account Setup](getting-started/account-setup.md)
-* [Tournament Setup](getting-started/tournament-setup.md)
-* [Entry Policy & Deadlines](getting-started/entry-policy.md)
-* [Entries Review & Export](getting-started/entries-review.md)
-* [Seeding](getting-started/seeding.md)
-* [Draws & Schedule](getting-started/draws-and-schedule.md)
-* [Score Entry](getting-started/score-entry.md)
 * [Appendix](getting-started/appendix.md)
+
+## Instructions
+
+* [1. Account Setup](getting-started/account-setup.md)
+* [2. Tournament Setup](getting-started/tournament-setup.md)
+* [3. Entry Policy & Deadlines](getting-started/entry-policy.md)
+* [4. Entries Review & Export](getting-started/entries-review.md)
+* [5. Seeding](getting-started/seeding.md)
+* [6. Draws & Schedule](getting-started/draws-and-schedule.md)
+* [7. Score Entry](getting-started/score-entry.md)
 
 ## Training Resources
 

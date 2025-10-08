@@ -3,8 +3,6 @@
 ## Quick Reference
 
 * **TMS (Tournated):** Tournament management system used by USPA/WPR.
-* **Admin Desk:** The manager area under your club's page in the player portal.
-* **Tournament Desk:** The operational area to build draws and schedule matches.
 * **USPA Calendar:** National calendar of sanctioned events.
 * **Entry Deadline / Withdrawal Deadline:** Same timestamp; determines entry lock and refund policy.
 * **Late Entry:** Discretionary acceptance post‑deadline (see policy). Payments managed outside TMS.
