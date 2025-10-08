@@ -1,7 +1,11 @@
+---
+icon: hand-wave
+---
+
 # Introduction
 
-  Welcome! We are here to explain to you how to use the Tournament Management Software (TMS). 
+Welcome! We are here to explain to you how to use the Tournament Management Software (TMS).
 
-  Please review the Getting Started and Instructions section. 
-  
-  There are also video Training Resources.
+Please review the Getting Started and Instructions section.
+
+There are also video Training Resources.
