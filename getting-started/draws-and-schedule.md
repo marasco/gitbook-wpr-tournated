@@ -30,6 +30,9 @@ Once the USPA has completed seedings on the Entry List, the TD can create the dr
 
     ![Elimination](<../.gitbook/assets/screen_5.png>)
 
+## Scheduling
+
+Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
 
 ## Publish Deadlines
 
