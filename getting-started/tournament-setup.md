@@ -22,7 +22,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 * **Payment type:** **Per pair**
 * **Number of courts:** Enter the number available for the tournament.
 
-![GeneralImage](<../.gitbook/assetss/screen_1.png>)
+![GeneralImage](<../.gitbook/assets/screen_1.png>)
 
 ---
 
