@@ -11,3 +11,6 @@ Enter scores directly in TMS; public draws update automatically.
 * **Match tiebreak:** Inside **square brackets `[]`** → `[10:6]`
 * **Unfinished:** Leave set score empty or set **Match not finished** (status becomes **Upcoming**)
 * **Save:** Select the winning team (click their name rectangle) to save the match.
+
+![CategoryImage](<../.gitbook/assets/screen_3.png>)
+

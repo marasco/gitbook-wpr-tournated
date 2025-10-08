@@ -122,6 +122,9 @@ Configure per category (open the **pencil icon / CHANGE SETTINGS**):
 * **Payments:** Add **VAT/tax** if applicable.
 * **Group Stage Points Allocation:** Default is set per USPA rules for round robin standings. (Leave as is unless instructed).
 
+![CategoryImage](<../.gitbook/assets/screen_2.png>)
+
+
 ---
 
 ## 12. Courts (Optional)
