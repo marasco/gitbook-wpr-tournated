@@ -56,7 +56,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 - **Tournament Poster:** Upload a **800 × 800** poster (follow USPA guidelines).
 
-- **Cover Banner:** Upload a **2400 × 600** banner (current dimensions differ from previous templates; use the latest USPA guidelines).
+- **Cover Banner:** Do not upload.
 
 ---
 
