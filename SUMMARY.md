@@ -6,6 +6,7 @@
 
 * [TMS Guide](getting-started/README.md)
 * [Appendix](getting-started/appendix.md)
+* [FAQ](getting-started/faq.md)
 
 ## Instructions
 
