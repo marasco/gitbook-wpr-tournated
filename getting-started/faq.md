@@ -29,7 +29,7 @@ You can decide pricing model (online / presencial / both) if you are setting the
 
 #### 3. Do I have a way to ask a few questions to players in the registration for&#x6D;**?**
 
-That's correct. In the [Tournament Setup -> Tournament Registration](tournament-setup.md#id-5.-tournament-registration) you have different options for the registration flow.
+That's correct. In the **Tournament Setup -> Tournament Registration** tab you have different options for the registration flow.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.51.07 a. m..png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ This screenshot below shows how players see the processing fee into the registra
 
 #### 5. Can I cover the fees instead charging extras to the player&#x73;**?**
 
-Sure, in the Tournament Setup -> Tournament Registration section you have two options to decide who cover the costs.
+Sure, in the **Tournament Setup -> Tournament Registration** section you have two options to decide who cover the costs.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.24.54 a. m..png" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ Sure, in the Tournament Setup -> Tournament Registration section you have two op
 
 #### 7. How I can avoid receiving notification emails?
 
-&#x20;Right. Also in the Tournament Setup -> Tournament Registration tab you can disable email notifications for you or for registrants.
+&#x20;Right. Also in the **Tournament Setup -> Tournament Registration** tab you can disable email notifications for you or for registrants.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.26.24 a. m..png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@ Sure![](<../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.29.18 a.�
 
 #### 10.  Can we approve manually each registration request received?
 
-&#x20;That's possible. In the Tournament Setup -> Tournament Registration section you have the option to decide if confirm entries automatically or not.
+That's possible. In the **Tournament Setup -> Tournament Registration** section you have the option to decide if confirm entries automatically or not.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.29.41 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -85,7 +85,17 @@ If that's disabled, you can check the "Requests" tab.
 
 #### 11.  How I can generate a single elimination draw from the results of a round robin draw ?
 
+Let's assume we have a Round Robin with 2 groups like this:
 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.50.33 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
+
+If the matches happened. You must have places/postiions for each team. Then you can go to \[Generate / Knock-out Draw (Play-off)
+
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.51.55 a. m..png" alt="" width="335"><figcaption></figcaption></figure></div>
+
+A new modal will be open so we can decide on multiple generation options.
+
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.05.11 a. m..png" alt="" width="369"><figcaption></figcaption></figure></div>
 
 ## Still needing for help ?
 
