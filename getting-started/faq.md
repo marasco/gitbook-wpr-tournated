@@ -5,11 +5,11 @@ hidden: true
 
 # FAQ
 
+
+
 <details>
 
 <summary>1. <strong>Is possible to set a limit of registrations per category?</strong></summary>
-
-
 
 Yes, you have to open the Category Settings page
 
@@ -25,7 +25,9 @@ Then, you have to click in \[**2. Participants & Seedings**] set a limit of regi
 
 </details>
 
-#### 2. How I can set different pricing **per category?**
+<details>
+
+<summary>2. How I can set different pricing <strong>per category?</strong></summary>
 
 Go to Category Settings -> Click into the pencil icon to edit a category -> Click on \[**3. Payments**] and define pricing.
 
@@ -33,7 +35,11 @@ You can decide pricing model (online / presencial / both) if you are setting the
 
 <div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.46.11 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-#### 3. Do I have a way to ask a few questions to players in the registration for&#x6D;**?**
+</details>
+
+<details>
+
+<summary>3. Do I have a way to ask a few questions to players in the registration form<strong>?</strong></summary>
 
 That's correct. In the **Tournament Setup -> Tournament Registration** tab you have different options for the registration flow.
 
@@ -43,7 +49,11 @@ You can click on "+ Add New Question" and you'll see a form to fill with differe
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.53.27 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### 4. Do I have to pay fees for the tournament registration&#x73;**?**
+</details>
+
+<details>
+
+<summary>4. Do I have to pay fees for the tournament registrations<strong>?</strong></summary>
 
 Right. Our platforms involved (Tournated/USPA/WPR) could generate fees (that depends on your contract with us) and Stripe is charging players into the registration payment flow.&#x20;
 
@@ -51,23 +61,39 @@ This screenshot below shows how players see the processing fee into the registra
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.57.51 a. m..png" alt=""><figcaption></figcaption></figure>
 
-#### 5. Can I cover the fees instead charging extras to the player&#x73;**?**
+</details>
+
+<details>
+
+<summary>5. Can I cover the fees instead charging extras to the players<strong>?</strong></summary>
 
 Sure, in the **Tournament Setup -> Tournament Registration** section you have two options to decide who cover the costs.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.24.54 a. m..png" alt=""><figcaption></figcaption></figure>
 
-#### 6. Players can register into more than one category at the same tournamen&#x74;**?**
+</details>
 
-> Coming Soon
+<details>
 
-#### 7. How I can avoid receiving notification emails?
+<summary>6. Players can register into more than one category at the same tournament<strong>?</strong></summary>
 
-&#x20;Right. Also in the **Tournament Setup -> Tournament Registration** tab you can disable email notifications for you or for registrants.
+> Coming soon
+
+</details>
+
+<details>
+
+<summary>7. How I can avoid receiving notification emails?</summary>
+
+Right. Also in the **Tournament Setup -> Tournament Registration** tab you can disable email notifications for you or for registrants.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.26.24 a. m..png" alt=""><figcaption></figcaption></figure>
 
-#### 8. Can I send notifications or news to the teams from my tournament?&#x20;
+</details>
+
+<details>
+
+<summary>8. Can I send notifications or news to the teams from my tournament? </summary>
 
 Right. You have to go to the \[**Entries**] section
 
@@ -81,11 +107,19 @@ Now you'll see a modal with different information about that entry. There you ca
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.12.17 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### 9. Can apply discounts on players playing in more than one category?&#x20;
+</details>
+
+<details>
+
+<summary>9. Can apply discounts on players playing in more than one category? </summary>
 
 > Coming Soon...
 
-#### 10.  Can we approve manually each registration request received?
+</details>
+
+<details>
+
+<summary>10.  Can we approve manually each registration request received?</summary>
 
 That's possible. In the **Tournament Setup -> Tournament Registration** section you have the option to decide if confirm entries automatically or not.
 
@@ -99,7 +133,11 @@ If that's disabled, you can check the "Requests" tab.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.35.46 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### 11.  How I can generate a single elimination draw from the results of a round robin draw ?
+</details>
+
+<details>
+
+<summary>11.  How I can generate a single elimination draw from the results of a round robin draw ?</summary>
 
 Let's assume we have a Round Robin with 2 groups like this:
 
@@ -112,6 +150,10 @@ If the matches happened. You must have places/postiions for each team. Then you 
 A new modal will be open so we can decide on multiple generation options.
 
 <div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.05.11 a. m..png" alt="" width="369"><figcaption></figcaption></figure></div>
+
+</details>
+
+
 
 ## Still needing for help ?
 
