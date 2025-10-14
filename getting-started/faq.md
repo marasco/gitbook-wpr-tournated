@@ -9,7 +9,7 @@ hidden: true
 
 <details>
 
-<summary>1. <strong>Is possible to set a limit of registrations per category?</strong></summary>
+<summary>1. Is possible to set a limit of registrations per category?</summary>
 
 Yes, you have to open the Category Settings page
 
@@ -27,7 +27,7 @@ Then, you have to click in \[**2. Participants & Seedings**] set a limit of regi
 
 <details>
 
-<summary>2. How I can set different pricing <strong>per category?</strong></summary>
+<summary>2. How I can set different pricing per category?</summary>
 
 Go to Category Settings -> Click into the pencil icon to edit a category -> Click on \[**3. Payments**] and define pricing.
 
