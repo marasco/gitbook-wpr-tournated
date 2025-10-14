@@ -29,29 +29,59 @@ You can decide pricing model (online / presencial / both) if you are setting the
 
 #### 3. Do I have a way to ask a few questions to players in the registration for&#x6D;**?**
 
-> Coming Soon
+That's correct. In the [Tournament Setup -> Tournament Registration](tournament-setup.md#id-5.-tournament-registration) you have different options for the registration flow.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.51.07 a. m..png" alt=""><figcaption></figcaption></figure>
+
+You can click on "+ Add New Question" and you'll see a form to fill with different options. You have options like "Dropdown", "Text", "Numeric" and "Files".
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.53.27 a. m..png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Do I have to pay fees for the tournament registration&#x73;**?**
 
-> Coming Soon
+Right. Our platforms involved (Tournated/USPA/WPR) could generate fees (that depends on your contract with us) and Stripe is charging players into the registration payment flow.&#x20;
 
-#### 5. Is there a way to charge the platform fees to the player&#x73;**?**
+This screenshot below shows how players see the processing fee into the registration flow.
 
-> Coming Soon
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.57.51 a. m..png" alt=""><figcaption></figcaption></figure>
 
+#### 5. Can I cover the fees instead charging extras to the player&#x73;**?**
 
+Sure, in the Tournament Setup -> Tournament Registration section you have two options to decide who cover the costs.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.24.54 a. m..png" alt=""><figcaption></figcaption></figure>
 
 #### 6. Players can register into more than one category at the same tournamen&#x74;**?**
 
 > Coming Soon
 
-#### 7. How I can avoid to receive notification emails?&#x20;
+#### 7. How I can avoid receiving notification emails?
+
+&#x20;Right. Also in the Tournament Setup -> Tournament Registration tab you can disable email notifications for you or for registrants.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.26.24 a. m..png" alt=""><figcaption></figcaption></figure>
 
 #### 8. Can I send notifications or news to the teams from my tournament?&#x20;
 
+Sure![](<../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.29.18 a. m..png>)
+
 #### 9. Can apply discounts on players playing in more than one category?&#x20;
 
-#### 10.  Can we approve manually each registration request received?&#x20;
+> Coming Soon...
+
+#### 10.  Can we approve manually each registration request received?
+
+&#x20;That's possible. In the Tournament Setup -> Tournament Registration section you have the option to decide if confirm entries automatically or not.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.29.41 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
+
+If that's disabled, you can check the "Requests" tab.
+
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.32.16 a. m..png" alt="" width="216"><figcaption></figcaption></figure></div>
+
+&#x20;And you must review and approve/decline these registration requests.&#x20;
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.35.46 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 11.  How I can generate a single elimination draw from the results of a round robin draw ?
 
