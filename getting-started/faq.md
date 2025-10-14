@@ -5,7 +5,11 @@ hidden: true
 
 # FAQ
 
-#### 1. **Is possible to set a limit of registrations per category?**
+<details>
+
+<summary>1. <strong>Is possible to set a limit of registrations per category?</strong></summary>
+
+
 
 Yes, you have to open the Category Settings page
 
@@ -18,6 +22,8 @@ Now click the pencil icon to edit the category you want to limit
 Then, you have to click in \[**2. Participants & Seedings**] set a limit of registrants, in this example it's set to 5 (five).
 
 <div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.37.12 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+</details>
 
 #### 2. How I can set different pricing **per category?**
 
