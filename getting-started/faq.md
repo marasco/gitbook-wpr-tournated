@@ -35,7 +35,7 @@ That's correct. In the **Tournament Setup -> Tournament Registration** tab you h
 
 You can click on "+ Add New Question" and you'll see a form to fill with different options. You have options like "Dropdown", "Text", "Numeric" and "Files".
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.53.27 a. m..png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.53.27 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 4. Do I have to pay fees for the tournament registration&#x73;**?**
 
@@ -63,7 +63,17 @@ Sure, in the **Tournament Setup -> Tournament Registration** section you have tw
 
 #### 8. Can I send notifications or news to the teams from my tournament?&#x20;
 
-Sure![](<../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.29.18 a. m..png>)
+Right. You have to go to the \[**Entries**] section
+
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.08.58 a. m..png" alt="" width="217"><figcaption></figcaption></figure></div>
+
+And click into the information icon \[**i**] in the Entries table.
+
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.09.54 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+Now you'll see a modal with different information about that entry. There you can send emails to the player(s).
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.12.17 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 9. Can apply discounts on players playing in more than one category?&#x20;
 
