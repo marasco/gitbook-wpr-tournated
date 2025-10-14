@@ -9,7 +9,7 @@ hidden: true
 
 Yes, you have to open the Category Settings page
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.36.34 a. m..png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.36.34 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Now click the pencil icon to edit the category you want to limit
 
@@ -17,7 +17,7 @@ Now click the pencil icon to edit the category you want to limit
 
 Then, you have to click in \[**2. Participants & Seedings**] set a limit of registrants, in this example it's set to 5 (five).
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.37.12 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.37.12 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### 2. How I can set different pricing **per category?**
 
@@ -25,7 +25,7 @@ Go to Category Settings -> Click into the pencil icon to edit a category -> Clic
 
 You can decide pricing model (online / presencial / both) if you are setting the price per player or per team, and pricing for each case.
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.46.11 a. m..png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 7.46.11 a. m..png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### 3. Do I have a way to ask a few questions to players in the registration for&#x6D;**?**
 
