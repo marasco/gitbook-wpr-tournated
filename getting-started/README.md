@@ -17,7 +17,7 @@
 The USPA, in partnership with WPR, uses **Tournated TMS** for the end‑to‑end tournament flow: listing, player entry and payment, draws, schedules, and scores. This improves the experience for players, clubs, and TDs.
 
 * **Players enter and pay** at [https://uspa-tournaments.worldpadelrating.com](https://uspa-tournaments.worldpadelrating.com).
-* **Entry fees** are paid **directly to the club** via the club's **Stripe** connected to the TMS (real‑time). _Note: Stripe fees would be applicated._
+* **Entry fees** are paid **directly to the club** via the club's **Stripe** connected to the TMS (real‑time). _Note: Stripe fees will be applied._
 * **TDs** are responsible for learning and operating the TMS; **WPR** and **USPA** provide support and oversight.
 
 ## Key Contacts & Links
