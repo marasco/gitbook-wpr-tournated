@@ -10,5 +10,5 @@
 
    * **Login credentials** for [manager.tournated.com](https://manager.tournated.com) (for you and any designated staff), and
    * A **Stripe connection link** to connect your club's Stripe to TMS.
-3. **Connect Stripe** using that link and email [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) once completed.
+3. **Connect Stripe** using the link and email [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) once completed.
 4. After Tournated confirms the Stripe connection and adds your staff to the organization/venue, you can **create your first tournament**.
