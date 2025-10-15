@@ -5,9 +5,7 @@
 **Do this at least 8 weeks before your event:**
 
 1. Email [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) with:
-
-   * Public **name/email/phone** for the primary TD to display in the TMS.
-   * **Names/emails** of any club staff who need TMS access.
+   * **Name(s)/email(s)/phone(s)** of any club staff who need TMS access. 
 2. You will receive:
 
    * **Login credentials** for [manager.tournated.com](https://manager.tournated.com) (for you and any designated staff), and
