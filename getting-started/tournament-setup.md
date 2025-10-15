@@ -88,7 +88,7 @@ All items optional. Important: Mind your selections for the two Fee Coverage cho
 
 ## 7. Management
 
-- **Organizer:** Select **you/your organization**.
+- **Organizer:** Select **you/your organization**. (The staff member selected as Organizer during setup for a given tournament will have their contact info listed on that tournament's public page.)
 - **Referees:** Skip (unless applicable).
 - **Tournament status:** **Active**.
 
