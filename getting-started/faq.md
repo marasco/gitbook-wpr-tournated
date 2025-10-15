@@ -5,8 +5,6 @@ hidden: true
 
 # FAQ
 
-
-
 <details>
 
 <summary>1. Is it possible to set a limit of registrations per category?</summary>
@@ -55,7 +53,7 @@ You can click on "+ Add New Question" and you'll see a form to fill with differe
 
 <summary>4. Do I have to pay fees for the tournament registrations<strong>?</strong></summary>
 
-Yes. Our platforms (Tournated/USPA/WPR) may generate fees (depending on your contract with us), and Stripe charges players during the registration payment flow.&#x20;
+Yes. Our platforms (Tournated/USPA/WPR) may generate fees (depending on your contract with us), and Stripe charges players during the registration payment flow.
 
 The screenshot below shows how players see the processing fee in the registration flow.
 
@@ -77,8 +75,8 @@ Yes, in the **Tournament Setup -> Tournament Registration** section you have two
 
 <summary>6. Can players register in more than one category at the same tournament<strong>?</strong></summary>
 
-- For USPA sanctioned tournaments, "players may enter a mixed, or co-ed category, and a gender category, for example Co-Ed D1 and Men's Doubles D1 is allowed. Players may NOT enter two divisions in the same category, for example, playing in Men’s Division 2 and 3, is not allowed, even with different partners." In Age Group tournaments, players likewise may NOT enter two divisions in the same category - for example Men's 35+ and Men's 45+ is not allowed, even with different partners.
-- For WPR unsanctioned tournaments, there are no such rules. Keep in mind that if you permit players to enter multiple divisions, your scheduling becomes more complicated to avoid conflicts.
+* For USPA sanctioned tournaments, "players may enter a mixed, or co-ed category, and a gender category, for example Co-Ed D1 and Men's Doubles D1 is allowed. Players may NOT enter two divisions in the same category, for example, playing in Men’s Division 2 and 3, is not allowed, even with different partners." In Age Group tournaments, players likewise may NOT enter two divisions in the same category - for example Men's 35+ and Men's 45+ is not allowed, even with different partners.
+* For WPR unsanctioned tournaments, there are no such rules. Keep in mind that if you permit players to enter multiple divisions, your scheduling becomes more complicated to avoid conflicts.
 
 </details>
 
@@ -94,7 +92,7 @@ Yes. In the **Tournament Setup -> Tournament Registration** tab you can disable 
 
 <details>
 
-<summary>8. Can I send notifications or news to the teams from my tournament? </summary>
+<summary>8. Can I send notifications or news to the teams from my tournament?</summary>
 
 Yes. You need to go to the \[**Entries**] section.
 
@@ -112,15 +110,17 @@ You'll see a modal with information about that entry. From there you can send em
 
 <details>
 
-<summary>9. Can I apply discounts for players playing in more than one category? </summary>
+<summary>9. Can I apply discounts for players playing in more than one category?</summary>
 
 Yes. During the "Discounts" step of creating a tournament, you can activate a custom % discount for an additional category or categories.
+
+<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-10-14 at 6.42.51 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
 <details>
 
-<summary>10.  Can we manually approve each registration request received?</summary>
+<summary>10. Can we manually approve each registration request received?</summary>
 
 Yes, that's possible. In the **Tournament Setup -> Tournament Registration** section you have the option to decide whether to confirm entries automatically or not.
 
@@ -130,7 +130,7 @@ If that's disabled, you can check the "Requests" tab.
 
 <div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.32.16 a. m..png" alt="" width="216"><figcaption></figcaption></figure></div>
 
-&#x20;And you must review and approve/decline these registration requests.&#x20;
+And you must review and approve/decline these registration requests.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 8.35.46 a. m..png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -138,7 +138,7 @@ If that's disabled, you can check the "Requests" tab.
 
 <details>
 
-<summary>11.  How can I generate a single elimination draw from the results of a round robin draw?</summary>
+<summary>11. How can I generate a single elimination draw from the results of a round robin draw?</summary>
 
 Let's assume we have a Round Robin with 2 groups like this:
 
@@ -153,8 +153,6 @@ A new modal will open where you can decide on multiple generation options.
 <div align="left"><figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-14 a la(s) 9.05.11 a. m..png" alt="" width="369"><figcaption></figcaption></figure></div>
 
 </details>
-
-
 
 ## Still need help?
 
