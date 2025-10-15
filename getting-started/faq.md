@@ -77,7 +77,8 @@ Yes, in the **Tournament Setup -> Tournament Registration** section you have two
 
 <summary>6. Can players register in more than one category at the same tournament<strong>?</strong></summary>
 
-> Coming soon
+- For USPA sanctioned tournaments, "players may enter a mixed, or co-ed category, and a gender category, for example Co-Ed D1 and Men's Doubles D1 is allowed. Players may NOT enter two divisions in the same category, for example, playing in Men’s Division 2 and 3, is not allowed, even with different partners." In Age Group tournaments, players likewise may NOT enter two divisions in the same category - for example Men's 35+ and Men's 45+ is not allowed, even with different partners.
+- For WPR unsanctioned tournaments, there are no such rules. Keep in mind that if you permit players to enter multiple divisions, your scheduling becomes more complicated to avoid conflicts.
 
 </details>
 
@@ -113,7 +114,7 @@ You'll see a modal with information about that entry. From there you can send em
 
 <summary>9. Can I apply discounts for players playing in more than one category? </summary>
 
-> Coming Soon...
+Yes. During the "Discounts" step of creating a tournament, you can activate a custom % discount for an additional category or categories.
 
 </details>
 
