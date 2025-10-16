@@ -47,8 +47,8 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
   - If oversubscribed, USPA rankings + WPR ratings determine placement (see [USPA Rule Book](https://padelusa.org/competition/rules-and-regulations/)).
   - USPA may move any team entered in a division clearly below its ability.
   - Individual scheduling requests cannot be accommodated.
-  - Tournament-specific questions: contact the tournament director (not USPA/WPR).
-  - Withdrawal before the deadline: Visit tournament listing / My Details / ticket icon / Withdraw.
+  - Tournament-specific questions: contact the Tournament Director (TD), not USPA/WPR.
+  - Withdrawal before the deadline: Visit tournament listing --> My Details --> ticket icon --> Withdraw.
   - Partner changes before the deadline: email the TD.
   - After the deadline: email the TD for withdrawals/partner changes.
     - In D1 of USPA 2500/2000/1500/1000/500, no partner changes after the draw is published.
