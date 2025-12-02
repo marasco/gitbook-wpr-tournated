@@ -40,6 +40,7 @@ At the **Entry Deadline**:
 
 * **Formatting summary:**
 
+  * Minimum 3 teams required to make a draw. <3 teams = cancelled & refunded.
   * **≤ 5 teams:** 1 group (no playoff).
   * **6–7 teams:** 2 groups with **1st Place Playoff** (3rd/5th Place Playoffs optional at TD discretion).
   * **Round robin:** used for **≤ 7** teams.
