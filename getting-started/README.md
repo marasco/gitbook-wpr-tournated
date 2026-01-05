@@ -4,7 +4,7 @@
 
 ## Quick‑Start
 
-* [ ] Submit your tournament poster to [info@padelusa.org](mailto:info@padelusa.org), following guidelines [http://www.padelusa.org/flier] (http://www.padelusa.org/flier): 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.
+* [ ] Submit your tournament poster to [info@padelusa.org](mailto:info@padelusa.org), following guidelines [http://www.padelusa.org/flier]: 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.
 * [ ] Connect Stripe (required only once, for the first tournament you run).
 * [ ] Verify your tournament appears on the USPA Calendar.
 * [ ] Registration opens.
