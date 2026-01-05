@@ -1,4 +1,4 @@
-# Tournament Setup [done by the USPA]
+# Tournament Setup (done by USPA)
 
 ## Tournament Creation (TMS → "+ Create → Tournament")
 
