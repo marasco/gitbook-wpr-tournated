@@ -4,13 +4,14 @@
 
 ## Quick‑Start
 
-* [ ] Submit your tournament poster to info@padelusa.org, following guidelines: 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/7db289f6-236d-4845-ba1c-02fc96a17136" />
-
-* [ ] Get access to your club's **TMS** ([manager.tournated.com](https://manager.tournated.com)) and connect **Stripe**.
-* [ ] Verify your tournament appears on the **USPA Calendar**.
-* [ ] Create your tournament in **TMS** and **submit for USPA approval** (≥ 8 weeks prior).
-* [ ] At deadline, **review entries**, make any adjustments, and **export/send Entry List** to USPA/WPR for seeding.
-* [ ] After seeding is returned, **create draws & schedule** in TMS.
+* [ ] Submit your tournament poster to info@padelusa.org, following guidelines (http://www.padelusa.org/flier): 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.
+* [ ] Connect Stripe (required only once, for the first tournament you run).
+* [ ] Verify your tournament appears on the USPA Calendar.
+* [ ] Registration opens.
+* [ ] Receive login credentials to your club's **TMS** (https://manager.tournated.com).
+* [ ] Review this document's Instructions Step 3-7, and also familiarize with USPA Rules & Regulations (https://padelusa.org/competition/rules-and-regulations/) -- summary version for the open circuit: https://padelusa.org/wp-content/uploads/2025/06/USPA-Competition-Structure-June-2025.pdf.
+* [ ] At deadline, **review Entry List** from USPA (includes seedding), and make changes if any needed. (*IMPORTANT Note: If any late entries and/or any teams changing divisions and/or partner changes, seedings may resultingly change -- add the entries, make changes, and determine seedings by consulting USPA ranking points: Women, Men -- https://docs.google.com/spreadsheets/d/1yOASWGurpauWqPAWxVNB1lPb6DYtXftg/edit?usp=sharing&ouid=108602083471399457205&rtpof=true&sd=true, https://docs.google.com/spreadsheets/d/1UzFDUtBNjUxHGGcFe1dC6s43hbfCUf37/edit?gid=953756506#gid=953756506. See Instructions Step 5 below for details.) 
+* [ ] **Create draws & schedule** in TMS.
 * [ ] Manage **in‑tournament scoring** in TMS.
 * [ ] Use **Stripe** to issue any necessary refunds for withdrawals.
 
