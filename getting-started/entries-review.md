@@ -5,16 +5,16 @@
 
 At the **Entry Deadline**:
 
-1. Open the **Entries** tab and review the items below.
+1. Open the **Entries** tab for your tournament in manager.tournated.com and the **Entrry List** spreadsheet file the USPA will have emailed to you, to review the items below.
 2. Make any necessary changes. (Complete the below **What to Review in Entries** checklist)
-3. Click **Export → Download Data for All Categories** to obtain the **Entry List**.
-4. Email the file to [info@padelusa.org](mailto:info@padelusa.org) and [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) for **seeding**.
+3. Click **Export → Download Data for All Categories** to obtain the **Entry List** file containing your changes, if any.
+4. (If any late entries and/or teams changing divisions and/or partner changes, determine updated seeding in this ^ newly downloaded file. See Instructions for details.)
 
 ## What to Review in Entries
 
 ### i) Divisions & Partners are correct
 
-> Note: The TD is advised to notify players affected by changes, if any.
+> Note: The TD is advised to notify players affected by changes, if any, whether division changes, division cancellations, etc. Teams must give their OK on division changes before the TD can make the change in USPA-sanctioned tournaments. Divisions are cancelled if <3 teams. TDs may want to change teams' divisions for competitive balance (WPR ratings and your local knowledge of players' levels are helpful here) or for numbers. Women are permitted to play Men's divisions, but do not receive USPA ranking points for matches played in Men's.
 
 * **Change a team's division:** Click the **…** at far right → **Edit** → change **"Select category"**.
 * **Change a partner:** Click **… → Edit** → replace the player by entering their **WPR ID** or **WPR‑associated email** in the appropriate field.
@@ -24,7 +24,7 @@ At the **Entry Deadline**:
 
 ### ii) Capacity check
 
-* Ensure total entries **do not exceed** your facility's capacity. If they do, notify **USPA** (whose draw rules determine who qualifies).
+* Ensure total entries **do not exceed** your facility's capacity. If they do, notify **USPA**. (USPA rules & regulations would then determine who qualifies.)
 
 ### iii) Late entries (if you accept them at your discretion)
 
@@ -34,7 +34,7 @@ At the **Entry Deadline**:
 
 ### iv) Refunds for withdrawals
 
-* Issue refunds (as applicable) from your **Stripe dashboard**.
+* Issue refunds (as applicable) from your **Stripe dashboard**. Refunds are to be given for withdrawalls before the Entry Deadline, but are not required to be given for withdrawals after the Entry Deadline.
 
 ### v) Required draw format per entries
 
