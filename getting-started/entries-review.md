@@ -14,7 +14,7 @@ At the **Entry Deadline**:
 
 ### i) Divisions & Partners are correct
 
-> Note: The TD is advised to notify players affected by changes, if any, whether division changes, division cancellations, etc. Teams must give their OK on division changes before the TD can make the change in USPA-sanctioned tournaments. Divisions are cancelled if <3 teams. TDs may want to change teams' divisions for competitive balance (WPR ratings and your local knowledge of players' levels are helpful here) or for numbers. Women are permitted to play Men's divisions, but do not receive USPA ranking points for matches played in Men's.
+> Note: The TD is advised to notify players affected by changes, if any, whether division changes, division cancellations, etc. Teams must consent to division changes before the TD can make the change in USPA-sanctioned tournaments. Divisions are cancelled if <3 teams. TDs may want to change teams' divisions for competitive balance (WPR ratings and your local knowledge of players' levels are helpful here) or for numbers. Women are permitted to play Men's divisions, but do not receive USPA ranking points for matches played in Men's.
 
 * **Change a team's division:** Click the **…** at far right → **Edit** → change **"Select category"**.
 * **Change a partner:** Click **… → Edit** → replace the player by entering their **WPR ID** or **WPR‑associated email** in the appropriate field.
