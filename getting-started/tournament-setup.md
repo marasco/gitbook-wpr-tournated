@@ -1,8 +1,8 @@
-# Tournament Setup
+# Tournament Setup [done by the USPA]
 
-## Create Your Tournament (TMS → "+ Create → Tournament")
+## Tournament Creation (TMS → "+ Create → Tournament")
 
-You can log in via [manager.tournated.com](https://manager.tournated.com). If your email is the same as your WPR player profile email, you can also log in via [uspa-tournaments.worldpadelrating.com](https://uspa-tournaments.worldpadelrating.com) (player portal) and then click **"Manager"** (top‑right menu).
+Log in via [manager.tournated.com](https://manager.tournated.com).
 
 ---
 
@@ -11,7 +11,7 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 - Confirm your tournament is listed on the **USPA Calendar**.
 - **Lead time:** TDs should log in and learn the TMS **at least 8 weeks** before the tournament.
 
-**Cancellation policy (summary):** Tournaments may be automatically **canceled 3 weeks** before the scheduled date if the host club has not submitted their entry fee and created/submitted their tournament. Multiple reminder emails are sent starting 90 days out. Stay responsive and submit required materials on time to avoid removal from the calendar.
+**Cancellation policy (summary):** Tournaments may be automatically **cancelled 3 weeks** before the scheduled date if the host club has not submitted their entry fee and created/submitted their tournament. Multiple reminder emails are sent starting 90 days out. Stay responsive and submit required materials on time to avoid removal from the calendar.
 
 ---
 
@@ -19,8 +19,10 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 - **Categories:** Select **one by one**.
 - **Payment method:** **Online**
-- **Payment type:** **Per pair**
-- **Number of courts:** Enter the number available for the tournament.
+- **Currency:** **USD**
+- **Payment type:** **Per Pair**
+- **Entry fee:** Enter the **pair** fee (i.e. player x 2).
+- **Number of Courts:** Enter the number available for the tournament.
 
 ![GeneralImage](../.gitbook/assets/screen_1b.png)
 
@@ -28,10 +30,10 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
 
 ## 2. Dates & Location
 
-- **Entry Deadline & Withdrawal Deadline:** Use the **same date/time** (mind **time zones**).
+- **Entry Deadline & Withdrawal Deadline:** Put the **same date/time** (mind **time zones**).
 
-  - **USPA 100 & Age Group Local:** **Monday 8:00pm ET** (week of the tournament).
-  - **All other USPA tournaments:** **Thursday 12:00pm (noon) local time** (week **before** the tournament).
+  - **USPA 100 & Age Group Local:** **Monday 11:00pm local time** (week of the tournament).
+  - **USPA 250+ & Age Group Regionals+:** **Thursday 11:00pm local time** (week **before** the tournament).
 
 - **Venue:** Select your club(s).
 
@@ -54,9 +56,8 @@ You can log in via [manager.tournated.com](https://manager.tournated.com). If yo
     - In D1 of USPA 2500/2000/1500/1000/500, no partner changes after the draw is published.
   - No refunds for withdrawals after the deadline.
 
-- **Tournament Poster:** Upload a **800 × 800** poster (follow USPA guidelines).
-
-- **Cover Banner:** Do not upload.
+- **Tournament Poster:** Upload a poster that follows USPA guidelines http://www.padelusa.org/flier: 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.
+- **Cover Banner (~1249 x 255):** USPA to upload.
 
 ---
 
@@ -70,13 +71,13 @@ Use for **high‑level events** (e.g., player party, practice court blocks) to a
 
 All items optional. Important: Mind your selections for the two Fee Coverage choices at the bottom.
 
-- **Additional Questions:** Add custom fields (e.g., T‑shirt size, image upload). Can be per category and mandatory/optional.
-- **Terms & Conditions:** Paste club/venue waiver or similar text for acceptance at entry.
+- **Additional Questions:** Add custom fields (e.g. t‑shirt size, image upload). Can be per category and mandatory/optional.
+- **Terms & Conditions:** Paste any desired text, e.g. federation/club/venue injury waiver or social media waiver. (The registrant is prompted to accept as part of the entry process before tournament entry fee payment.) 
 - **External Registration Link:** Redirects the "Register" button elsewhere. **DO NOT USE** (players should register in TMS).
-- **Welcome/Success Messages:** Optional Pre and post‑registration messages to players.
-- **Email Notifications:** Enable/disable notifications to TD and players for new/approved entries.
+- **Welcome/Success Messages:** Optional pre and post‑registration messages to players within the checkout process.
+- **Email Notifications:** Enable/disable notifications for new/approved entries. (Recommended ON for players and OFF for the organizer/TD.)
 - **Automatic Confirmation:** Enable if you don't want a manual approval step.
-- **Fee Coverage:** Choose whether the club or the player covers platform/Stripe fees.
+- **Fee Coverage:** Choose whether the organizer/TD covers platform fees. (Mandated OFF for USPA sanctioned tournaments.)
 
 ---
 
@@ -96,7 +97,7 @@ All items optional. Important: Mind your selections for the two Fee Coverage cho
 
 ## 8. Fact Sheet (Optional)
 
-- You can upload a **Fact Sheet** later via the **Documents** tab (appears in the sidebar after submission).
+- You can upload a **Fact Sheet** later via the **Documents** tab. (The button to upload appears in left sidebar after tournament submission.)
 
 ---
 
@@ -118,9 +119,9 @@ General Settings are now complete.
 Configure per category (open the **pencil icon / CHANGE SETTINGS**):
 
 - **General:** Category color.
-- **Participants & Seedings:** Set **maximum teams** if needed. (**Do not** enter # of seeds here; # of seeds is determined later based on entries)
+- **Participants & Seedings:** Set **maximum teams** if needed. (**Do not** enter # of seeds here; # of seeds is determined later based on entries.)
 - **Payments:** Add **VAT/tax** if applicable.
-- **Group Stage Points Allocation:** Default is set per USPA rules for round robin standings. (Leave as is unless instructed).
+- **Group Stage Points Allocation:** Default is set per USPA rules for round robin standings. (Leave as is unless instructed.)
 
 ![CategoryImage](../.gitbook/assets/screen_2.png)
 
