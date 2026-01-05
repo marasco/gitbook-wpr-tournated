@@ -1,5 +1,7 @@
 # Tournament Setup (done by USPA)
 
+**The following (Step 2. Tournament Setup) is done by USPA** 
+
 ## Tournament Creation (TMS → "+ Create → Tournament")
 
 Log in via [manager.tournated.com](https://manager.tournated.com).
