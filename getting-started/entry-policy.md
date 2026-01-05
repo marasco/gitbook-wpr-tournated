@@ -15,5 +15,5 @@ The **registration page** will guide players to obtain any required credentials 
 
 ## Entry Deadlines
 
-* **USPA 100 & Age Group Local:** **Monday 8:00pm ET** (tournament week). **No late entries** (zero tolerance).
-* **All other USPA events:** **Thursday 12:00pm (noon) local time** (week **before** the tournament). You may accept **late entries** in TMS until **Sunday** (absolute cutoff) to allow USPA time to review entries and return seeding so you can publish by the required time.
+* **USPA 100 & Age Group Local:** **Monday 11:00pm local time** (tournament week). **No late entries** (zero tolerance).
+* **USPA 250+ & Age Group Regionals+:** **Thursday 11:00pm local time** (week **before** the tournament). You may accept **late entries**, entering them yourself in the TMS; keep in mind the need to yourself determine their seeding, if any, by consulting USPA ranking points: Women, Men -- https://docs.google.com/spreadsheets/d/1yOASWGurpauWqPAWxVNB1lPb6DYtXftg/edit?usp=sharing&ouid=108602083471399457205&rtpof=true&sd=true, https://docs.google.com/spreadsheets/d/1UzFDUtBNjUxHGGcFe1dC6s43hbfCUf37/edit?gid=953756506#gid=953756506, and to do so with enough time to publish draws & schedule before the Monday 2pm ET deadline. See Instructions section below for details.
