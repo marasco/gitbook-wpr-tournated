@@ -4,6 +4,8 @@
 
 ## Quick‑Start
 
+* [ ] Submit your tournament poster to info@padelusa.org, following guidelines: 1200 x 1700 (horizontal x vertical) with 100 pixel border zone at top & bottom, required USPA sponsor logos, etc.<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/7db289f6-236d-4845-ba1c-02fc96a17136" />
+
 * [ ] Get access to your club's **TMS** ([manager.tournated.com](https://manager.tournated.com)) and connect **Stripe**.
 * [ ] Verify your tournament appears on the **USPA Calendar**.
 * [ ] Create your tournament in **TMS** and **submit for USPA approval** (≥ 8 weeks prior).
