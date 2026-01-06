@@ -34,7 +34,7 @@ At the **Entry Deadline**:
 
 ### iv) Refunds for withdrawals
 
-* Issue refunds (as applicable) from your **Stripe dashboard**. Refunds are to be given for withdrawalls before the Entry Deadline, but are not required to be given for withdrawals after the Entry Deadline.
+* Issue refunds (as applicable) from your **Stripe dashboard**. Refunds are to be given for withdrawals before the Entry Deadline, but are not required to be given for withdrawals after the Entry Deadline.
 
 ### v) Required draw format per entries
 
