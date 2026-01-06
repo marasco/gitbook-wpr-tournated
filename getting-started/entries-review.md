@@ -28,7 +28,7 @@ At the **Entry Deadline**:
 
 ### iii) Late entries (if you accept them at your discretion)
 
-* **Add late entry:** Click **+ Add new Entry** → enter the players' **WPR ID** or **WPR‑associated email** (any player with a WPR profile is retrievable—no extra sync required).
+* **Add late entry:** Click **+ Add new Entry** → enter the players' **WPR ID** or **WPR‑associated email** (any player with a WPR profile is retrievable—no extra sync required). (The player needs to provide you their ID/email.)
 
   > **Payments for late entries** are handled **outside TMS** by the club. You will see **"No Payment"** next to the team; use the orange **"+"** to **manually update** their status for record‑keeping.
 
