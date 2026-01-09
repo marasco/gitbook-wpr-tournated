@@ -8,7 +8,7 @@ At the **Entry Deadline**:
 1. Open the **Entries** tab for your tournament in manager.tournated.com and the **Entry List** spreadsheet file the USPA will have emailed to you, to review the items below.
 2. Make any necessary changes. (Complete the below **What to Review in Entries** checklist)
 3. Click **Export → Download Data for All Categories** to obtain the **Entry List** file containing your changes, if any.
-4. (If any late entries and/or teams changing divisions and/or partner changes, determine updated seeding in this ^ newly downloaded file. See Instructions for details.)
+4. (If any late entries and/or teams changing divisions and/or partner changes, determine updated seeding in this ^ newly downloaded file. See Step "5. Seeding" Instructions for details.)
 
 ## What to Review in Entries
 
