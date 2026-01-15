@@ -61,4 +61,4 @@ TDs must publish the draws & schedule by the following times or earlier, and inf
 
 > **Important:** Clubs that do not publish draws & schedule on time risk the cancellation of future tournaments by the USPA.
 
-**TO PUBLISH:** Publish only once you've double-checked the draws and schedule, so avoid confusion of revising public content. To publish, click the orange "Publish now" button near the top right of all three of the i) Group Stage tab, ii) Knockout Stage tab, iii) Order of Play tab.
+**TO PUBLISH:** Publish only once you've double-checked the draws and schedule, to avoid confusion of revising public content. To publish, click the orange "Publish now" button near the top right of all three of the i) Group Stage tab, ii) Knockout Stage tab, iii) Order of Play tab.
