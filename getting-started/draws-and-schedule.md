@@ -50,7 +50,7 @@ As much as possible, schedule matches such that upcoming opponents will have equ
 
 **TIP:** Once done scheduling, use the Order of Play (left sidebar) --> "Matches" bank to double-check that there are no matches missing having been scheduled. To do so, use the down arrow on the right side of the "Matches" bank rectangle to expand the bank, then select all "Categories", all "Bracket" and checkbox the "Show only unscheduled matches" -- the matches bank should be empty if there are no matches missing scheduling.
 
-**TO PUBLISH:** Publish only once you've double-checked the draws and schedule, so avoid confusion of revising public content. To publish, click the orange "Publish now" button near the top right of all three of the i) Group Stage tab, ii) Knockout Stage tab, iii) Order of Play tab.
+
 
 ## Publish Deadlines
 
@@ -61,3 +61,4 @@ TDs must publish the draws & schedule by the following times or earlier, and inf
 
 > **Important:** Clubs that do not publish draws & schedule on time risk the cancellation of future tournaments by the USPA.
 
+**TO PUBLISH:** Publish only once you've double-checked the draws and schedule, so avoid confusion of revising public content. To publish, click the orange "Publish now" button near the top right of all three of the i) Group Stage tab, ii) Knockout Stage tab, iii) Order of Play tab.
