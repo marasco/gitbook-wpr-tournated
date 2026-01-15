@@ -54,8 +54,8 @@ As much as possible, schedule matches such that upcoming opponents will have equ
 
 TDs must publish the draws & schedule by the following times or earlier, and inform [info@padelusa.org](mailto:info@padelusa.org) and [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) when they are complete:
 
-* **USPA 100 & Age Group Local tournaments:** **Tuesday 2:00pm ET** (tournament week).
-* **USPA 250+ & Age Group Regionals+ tournaments:** **Monday 2:00pm ET** (tournament week).
+* **USPA 100 & Age Group Local tournaments:** **Tuesday 3:00pm local time** (tournament week).
+* **USPA 250+ & Age Group Regionals+ tournaments:** **Monday 3:00pm local time** (tournament week).
 
 > **Important:** Clubs that do not publish draws & schedule on time risk the cancellation of future tournaments by the USPA.
 
