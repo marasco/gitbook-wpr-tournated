@@ -39,15 +39,11 @@ Once Seeding is complete, the TD can create the draws & schedule.
 
 ## Scheduling
 
-There are 3 methods to do scheduling: 
+Once all draws are complete, the TD can do scheduling. There are 3 methods to do scheduling: 
 
 1. Via the Knockouts tab and Groups tab: Click on each match “Edit match” individually to enter match times - be mindful of AM:PM. (Remember to enter a court to best make use of the TMS's Order of Play functionality.) Cross-reference the Grid on the Order of Play tab, which populates as you do this, to check for no match conflicts.
 
-2. Via 'Matches bank' drag & drop: Navigate to the Order of Play tab. Expand the "Matches" horizontal rectangle; inside it, tick all the boxes (i.e. all Category and all Bracket) 
-
-
-tick all boxes (in the “Cate…” (Category) dropdown button select all and in the “Brac…” (Bracket) button select all (i.e. both Draw and Group) to have all matches appear, IMPORTANT: Select date - a date should be preselected (either tournament start/end date or current date,  tickbox “Show only unscheduled matches” so you know what you have left to drag in… then drag as you desire into the grid below, making sure to click “save” as you go so it stays. Empty the matches bank one by one dragging and dropping into the Grid below. Scroll up to find on the left hand side a dropdown menu with the date (for e.g. switching from Saturday to Sunday of your tournament).<img width="468" height="169" alt="image" src="https://github.com/user-attachments/assets/25a64dcd-0433-4bfb-bf8d-6c4d2b2c27ce" />
-
+2. Via 'Matches bank' drag & drop: Navigate to the Order of Play tab. Expand the "Matches" horizontal rectangle; inside it, tick all the boxes (i.e. all Category and all Bracket) to in effect Select All - i.e. all your tournaments' matches. Recommended: tickbox "Show only unscheduled matches", so that this 'Matches bank' visually empties as you schedule matches. To schedule matches from here, drag & drop a match from the bank into the grid below in your desired time & court slot. Be sure to click "Save" after each one. (You can click on a match in the grid to access a pop-out window to also edit the date, time & court.) (Scroll up to find on the left hand side a dropdown menu with the data (for e.g. switching the grid from Saturday to Sunday of your tournament.)
 
 3. Via Generate-->Order of Play (Schedule) button auto-scheduler: **UNDER CONSTRUCTION**. Currently, if you click this (make sure to do x2 - once in the Groups tab for Groups format draws, once in the Knockout tab for Knockout format draws -), all matches populate into the grid on the Order of Play tab, but with only basic logic (i.e. R1 before R2, but not incorporating rest times, maximum matches per day, etc.) and with potential conflicts between Groups matches and Knockout matches. The TD is advised to review closely and reshuffle significantly if using this method.
 
