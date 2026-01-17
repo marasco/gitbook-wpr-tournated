@@ -41,7 +41,7 @@ Once Seeding is complete, the TD can create the draws & schedule.
 
 There are 3 methods to do scheduling: 
 
-1. Via
+1. Via the Knockouts tab and Groups tab: Click on each match “Edit match” individually to enter match times - be mindful of AM:PM. (Remember to enter a court to best make use of the TMS's Order of Play functionality.) Cross-reference the Grid on the Order of Play tab, which populates as you do this, to check for no match conflicts.
 
 2. Via 'Matches bank':
 
