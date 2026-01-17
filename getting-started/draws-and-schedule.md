@@ -39,9 +39,13 @@ Once Seeding is complete, the TD can create the draws & schedule.
 
 ## Scheduling
 
-There are 3 ways to do scheduling: 
-1. 
+There are 3 methods to do scheduling: 
 
+1. Via
+
+2. Via 'Matches bank':
+
+3. Via Generate-->Order of Play (Schedule) button: **UNDER CONSTRUCTION**. Currently, if you click this (make sure to do x2 - once in the Groups tab for Groups format draws, once in the Knockout tab for Knockout format draws -), all matches populate into the grid on the Order of Play tab, but with only basic logic (i.e. R1 before R2, but not incorporating rest times, maximum matches per day, etc.) and with potential conflicts between Groups matches and Knockout matches. The TD is advised to review closely and reshuffle significantly if using this method.
 
 Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
 
