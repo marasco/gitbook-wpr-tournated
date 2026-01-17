@@ -45,4 +45,4 @@ At the **Entry Deadline**:
   * **6–7 teams:** 2 groups with **1st Place Playoff** (3rd/5th Place Playoffs optional at TD discretion).
   * **Round robin:** used for **≤ 7** teams.
   * **≥ 8 teams:** **First‑match‑loser consolation** draw format.
-  * **USPA 100 & Age Group Local:** More flexibility (confirm with USPA in advance).
+  * **USPA 100:** More flexibility (confirm with USPA in advance).
