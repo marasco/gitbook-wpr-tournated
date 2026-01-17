@@ -39,6 +39,10 @@ Once Seeding is complete, the TD can create the draws & schedule.
 
 ## Scheduling
 
+There are 3 ways to do scheduling: 
+1. 
+
+
 Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
 
 As much as possible, schedule matches such that upcoming opponents will have equal rest prior to their match – i.e. If the final is at 1pm, both semis should be at 10am rather than one semi at 10am and one semi at 9am. 
