@@ -47,6 +47,10 @@ There are 3 methods to do scheduling:
 
 3. Via Generate-->Order of Play (Schedule) button: **UNDER CONSTRUCTION**. Currently, if you click this (make sure to do x2 - once in the Groups tab for Groups format draws, once in the Knockout tab for Knockout format draws -), all matches populate into the grid on the Order of Play tab, but with only basic logic (i.e. R1 before R2, but not incorporating rest times, maximum matches per day, etc.) and with potential conflicts between Groups matches and Knockout matches. The TD is advised to review closely and reshuffle significantly if using this method.
 
+In all cases for any method, it is recommended to have at least a basic sketch if not spreadsheet of desired schedule next to you as you complete scheduling in the software. 
+
+
+
 Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
 
 As much as possible, schedule matches such that upcoming opponents will have equal rest prior to their match – i.e. If the final is at 1pm, both semis should be at 10am rather than one semi at 10am and one semi at 9am. 
@@ -59,6 +63,8 @@ As much as possible, schedule matches such that upcoming opponents will have equ
 **TIP:** Once done scheduling, use the Order of Play (left sidebar) --> "Matches" bank to double-check that there are no matches missing having been scheduled. To do so, use the down arrow on the right side of the "Matches" bank rectangle to expand the bank, then select all "Categories", all "Bracket" and checkbox the "Show only unscheduled matches" -- the matches bank should be empty if there are no matches missing scheduling.
 
 **TIP:** Project the Order of Play with auto-scroll onto a TV screen in your club. To do so, in the Order of Play tab, click the TV icon button. This cycles through all the tournament's matches in a grid view, noting scores as you enter them and noting which matches are Completed vs. Upcoming. (Matches must be assigned courts in order to make use of Order of Play functionality.)
+
+**TIP:** In case of e.g. rain: Can navigate in Order of Play tab to Bird’s View, click “Select all” (or select the matches in question individually), then click the “Move” button that appears and in the popup move all the matches, e.g., 2h later.
 
 
 ## Publish Deadlines
