@@ -5,10 +5,10 @@
 
 At the **Entry Deadline**:
 
-1. Open the **Entries** tab for your tournament in manager.tournated.com and the **Entry List** spreadsheet file the USPA will have emailed to you, to review the items below.
-2. Make any necessary changes. (Complete the below **What to Review in Entries** checklist)
-3. Click **Export → Download Data for All Categories** to obtain the **Entry List** file containing your changes, if any.
-4. (If any late entries and/or teams changing divisions and/or partner changes, determine updated seeding in this ^ newly downloaded file. See Step "5. Seeding" Instructions for details.)
+1. Open the **Entries** tab for your tournament in the TMS (manager.tournated.com) and the seeding **Entry List** spreadsheet file the USPA will have emailed to you, to review the items below.
+2. Make any necessary changes. (Complete the below **What to Review in Entries** checklist.)
+3. Enter the changes you've made in the TMS in the seeding **Entry List** spreadsheet file the USPA emailed you. (To assist in organization, you may click **Export → Download Data for All Categories** to obtain the **Entry List** file containing your changes made in the TMS, if any -- but note this does not contain ranking points/seedings, while the USPA file does.)
+4. If any changes - i.e. late entries and/or teams changing divisions and/or partner changes -, seeding may be impacted; determine updated seeding in the original **Entry List** spreadsheet file the USPA emailed you. See Step "5. Seeding" Instructions for details.
 
 ## What to Review in Entries
 
@@ -28,7 +28,7 @@ At the **Entry Deadline**:
 
 ### iii) Late entries (if you accept them at your discretion)
 
-* **Add late entry:** Click **+ Add new Entry** → enter the players' **WPR ID** or **WPR‑associated email** (any player with a WPR profile is retrievable—no extra sync required). (The player needs to provide you their ID/email.)
+* **Add late entry:** Click **+ Add new Entry** → enter the players' **WPR ID** or **WPR‑associated email** (any player with a WPR profile is retrievable—no extra sync required). (The player needs to provide you their ID or email.)
 
   > **Payments for late entries** are handled **outside TMS** by the club. You will see **"No Payment"** next to the team; use the orange **"+"** to **manually update** their status for record‑keeping.
 
