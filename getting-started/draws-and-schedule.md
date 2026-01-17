@@ -54,14 +54,15 @@ As much as possible, schedule matches such that upcoming opponents will have equ
 
 **TIP:** Once done scheduling, use the Order of Play (left sidebar) --> "Matches" bank to double-check that there are no matches missing having been scheduled. To do so, use the down arrow on the right side of the "Matches" bank rectangle to expand the bank, then select all "Categories", all "Bracket" and checkbox the "Show only unscheduled matches" -- the matches bank should be empty if there are no matches missing scheduling.
 
+**TIP:** Project the Order of Play with auto-scroll onto a TV screen in your club. To do so, in the Order of Play tab, click the TV icon button. This cycles through all the tournament's matches in a grid view, noting scores as you enter them and noting which matches are Completed vs. Upcoming. (Matches must be assigned courts in order to make use of Order of Play functionality.)
 
 
 ## Publish Deadlines
 
 TDs must publish the draws & schedule by the following times or earlier, and inform [info@padelusa.org](mailto:info@padelusa.org) and [tduspa@worldpadelrating.com](mailto:tduspa@worldpadelrating.com) when they are complete:
 
-* **USPA 100 & Age Group Local tournaments:** **Tuesday 3:00pm local time** (tournament week).
-* **USPA 250+ & Age Group Regionals+ tournaments:** **Monday 3:00pm local time** (tournament week).
+* **USPA 100 tournaments:** **Tuesday 3:00pm local time** (tournament week).
+* **USPA 250+ & Seniors tournaments:** **Monday 3:00pm local time** (tournament week).
 
 > **Important:** Clubs that do not publish draws & schedule on time risk the cancellation of future tournaments by the USPA.
 
