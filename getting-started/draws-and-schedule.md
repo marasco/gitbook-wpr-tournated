@@ -31,7 +31,7 @@ Once Seeding is complete, the TD can create the draws & schedule.
          * 	…Repeat for each playoff match, e.g. if also running “Men’s Div 1 3rd Place Playoff”, “Men’s Div 1 5th Place Playoff”, etc.
          * 	Manually input top teams from the group stage into the playoff match slots using the “+Add team” button in the playoff draw.
   
-  Below a few screenshots of a group setup and a knockout stage with entries:
+  Below are a couple screenshots of a group (a.k.a. round robin) and a knockout (a.k.a. FMLC) with entries:
 
     ![RoundRobin](<../.gitbook/assets/screen_4.png>)
 
@@ -54,6 +54,8 @@ In all cases for any method, it is recommended to have at least a basic sketch i
 Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
 
 As much as possible, schedule matches such that upcoming opponents will have equal rest prior to their match – i.e. If the final is at 1pm, both semis should be at 10am rather than one semi at 10am and one semi at 9am. 
+
+Do not schedule a player in 2 matches at the same time, even in Walkover situations, as this creates errors in the results upload to the WPR rating database.
 
 **IMPORTANT:** Scheduling of consolation matches for ‘First match loser consolation’ format draws in divisions where there are main draws with byes: The team with a main draw bye (often a seed) may (if they lose) or may not (if they win) slot into the consolation draw. If the former, enter a bye in the consolation draw on the line where they would have slotted in had they lost, advancing their would-be consolation opponent to the next round. If the latter, upon score entry for the relevant main draw match they are automatically slotted into the consolation draw. TDs should keep in mind in these scenarios to: 
   * i) only schedule first round consolation match times for after the second round of a corresponding main draw is completed, 
