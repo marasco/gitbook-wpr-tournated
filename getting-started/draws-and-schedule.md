@@ -79,3 +79,9 @@ TDs must publish the draws & schedule by the following times or earlier, and inf
 > **Important:** Clubs that do not publish draws & schedule on time risk the cancellation of future tournaments by the USPA.
 
 **TO PUBLISH:** Publish only once you've double-checked the draws and schedule, to avoid confusion of revising public content. To publish, click the orange "Publish now" button near the top right of all three of the i) Group Stage tab, ii) Knockout Stage tab, iii) Order of Play tab.
+
+**TO NOTIFY PLAYERS:** Usually players are actively checking https://uspa-tournaments.worldpadelrating.com/en-US for publication. If you would like to send a notification, there are multiple possible ways to do so: 
+1) Go to Tournament Overview on the left side --> Announcements button --> + Create --> in the "Create an announcement" popup enter & send a message from within the TMS
+or 
+2) Go to Participants on the left side --> i) check names to send notification from within the TMS or ii) use contact info listed (can download as a spreadsheet too) to send contact players outside of the TMS
+
