@@ -49,24 +49,17 @@ Once all draws are complete, the TD can do scheduling. There are 3 methods to do
 
 In all cases for any method, it is recommended to have at least a basic sketch if not spreadsheet of desired schedule next to you as you complete scheduling in the software. 
 
-
-
-Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
-
-As much as possible, schedule matches such that upcoming opponents will have equal rest prior to their match – i.e. If the final is at 1pm, both semis should be at 10am rather than one semi at 10am and one semi at 9am. 
-
-Do not schedule a player in 2 matches at the same time, even in Walkover situations, as this creates errors in the results upload to the WPR rating database.
-
-**IMPORTANT:** Scheduling of consolation matches for ‘First match loser consolation’ format draws in divisions where there are main draws with byes: The team with a main draw bye (often a seed) may (if they lose) or may not (if they win) slot into the consolation draw. If the former, enter a bye in the consolation draw on the line where they would have slotted in had they lost, advancing their would-be consolation opponent to the next round. If the latter, upon score entry for the relevant main draw match they are automatically slotted into the consolation draw. TDs should keep in mind in these scenarios to: 
+**ITEMS TO REMEMBER WHEN SCHEDULING:**
+1. Please remember when scheduling to include minimum rest time for players – generally 90 minutes (search “rest” in USPA rulebook for details), and to adhere to “matches per day” maximums (“two main draw matches per day in USPA 2000, 1000 and 500. In USPA 250 and 100, or where main draw matches utilize a 3rd set tiebreaker, three matches may be scheduled in one day”).
+2. As much as possible, schedule matches such that upcoming opponents will have equal rest prior to their match – i.e. If the final is at 1pm, both semis should be at 10am rather than one semi at 10am and one semi at 9am. 
+3. Do not schedule a player in 2 matches at the same time, even in Walkover situations, as this creates errors in the results upload to the WPR rating database.
+4. **IMPORTANT:** Scheduling of consolation matches for ‘First match loser consolation’ format draws in divisions where there are main draws with byes: The team with a main draw bye (often a seed) may (if they lose) or may not (if they win) slot into the consolation draw. If the former, enter a bye in the consolation draw on the line where they would have slotted in had they lost, advancing their would-be consolation opponent to the next round. If the latter, upon score entry for the relevant main draw match they are automatically slotted into the consolation draw. TDs should keep in mind in these scenarios to: 
   * i) only schedule first round consolation match times for after the second round of a corresponding main draw is completed, 
   * ii) communicate to awaiting teams that their consolation match time depends on the outcome of a main draw match, 
   * iii) be aware that outcomes of main draw matches may create gaps of unused court time in your schedule if a consolation match becomes n/a.
 
-**TIP:** Once done scheduling, use the Order of Play (left sidebar) --> "Matches" bank to double-check that there are no matches missing having been scheduled. To do so, use the down arrow on the right side of the "Matches" bank rectangle to expand the bank, then select all "Categories", all "Bracket" and checkbox the "Show only unscheduled matches" -- the matches bank should be empty if there are no matches missing scheduling.
-
-**TIP:** Project the Order of Play with auto-scroll onto a TV screen in your club. To do so, in the Order of Play tab, click the TV icon button. This cycles through all the tournament's matches in a grid view, noting scores as you enter them and noting which matches are Completed vs. Upcoming. (Matches must be assigned courts in order to make use of Order of Play functionality.)
-
-**TIP:** In case of e.g. rain: Can navigate in Order of Play tab to Bird’s View, click “Select all” (or select the matches in question individually), then click the “Move” button that appears and in the popup move all the matches, e.g., 2h later.
+**TO CHECK WHEN DONE SCHEDULING:**
+Once done scheduling, use the Order of Play (left sidebar) --> "Matches" bank to double-check that there are no matches missing having been scheduled. To do so, use the down arrow on the right side of the "Matches" bank rectangle to expand the bank, then select all "Categories", all "Bracket" and checkbox the "Show only unscheduled matches" -- the matches bank should be empty if there are no matches missing scheduling. (IMPORTANT: All matches must have both a score and **a scheduled date & time** entered before 11:59pm local time of the last day of the tournament. Missing data blocks the match results upload to the WPR rating database/player profiles.)
 
 
 ## Publish Deadlines
@@ -85,3 +78,6 @@ TDs must publish the draws & schedule by the following times or earlier, and inf
 or 
 2) Go to Participants on the left side --> i) check names to send notification from within the TMS or ii) use contact info listed (can download as a spreadsheet too) to send contact players outside of the TMS
 
+**TIP:** Project the Order of Play with auto-scroll onto a TV screen in your club. To do so, in the Order of Play tab, click the TV icon button. This cycles through all the tournament's matches in a grid view, noting scores as you enter them and noting which matches are Completed vs. Upcoming. (Matches must be assigned courts in order to make use of Order of Play functionality.)
+
+**TIP:** In case of e.g. rain: Can navigate in Order of Play tab to Bird’s View, click “Select all” (or select the matches in question individually), then click the “Move” button that appears and in the popup move all the matches, e.g., 2h later.
