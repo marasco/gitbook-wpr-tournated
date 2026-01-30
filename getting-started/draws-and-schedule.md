@@ -25,6 +25,7 @@ Once Seeding is complete, the TD can create the draws & schedule.
          * 	Draw title = same name as the category, + playoff name e.g. “Men’s Div 1 1st Place Playoff”
          * 	Templates size = 2
          * 	Generate Draw = From Group Results (Manual)
+         * 	Groups = Select all
          * 	De-select (checkbox no) “Publish draw after creation”. (Later, click orange “Publish Now” button top right later once all draws & schedules done and double-checked in case of errors.)
          * 	(Leave all other Settings as the default.)
          * 	Click “ADD DRAW”.
