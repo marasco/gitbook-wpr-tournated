@@ -14,7 +14,7 @@
 ## Support Contacts
 
 Ask AI "Taking into account the content of the following documents
-https://padelusa.org/wp-content/uploads/2026/01/USPA-Rules-and-Regulations-JAN-15-2026.pdf
+https://padelusa.org/wp-content/uploads/2026/02/USPA-Rules-and-Regulations-Feb-3-2026.pdf
 https://padelusa.org/wp-content/uploads/2026/01/2026-COMPETITION-STRUCTURE-GUIDE-JAN-16-2026.pdf
 https://uspa-wpr.gitbook.io/docs/getting-started/getting-started, what's the rule on ____________?" Email Support for verification.
 
