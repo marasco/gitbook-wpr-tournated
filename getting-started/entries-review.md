@@ -1,4 +1,4 @@
-# Entries Review & Export
+# Entries Review (at Entry Deadline)
 
 ## Overview
 
