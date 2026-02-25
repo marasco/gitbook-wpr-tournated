@@ -5,6 +5,7 @@ Once Seeding is complete, the TD can create the draws & schedule.
 ## Draws
 
 Required draw format per entries
+
 Formatting summary:
 
 Minimum 3 teams required to make a draw. <3 teams = cancelled & refunded.
