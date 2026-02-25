@@ -4,6 +4,16 @@ Once Seeding is complete, the TD can create the draws & schedule.
 
 ## Draws
 
+Required draw format per entries
+Formatting summary:
+
+Minimum 3 teams required to make a draw. <3 teams = cancelled & refunded.
+≤ 5 teams: 1 group (no playoff).
+6–7 teams: 2 groups with 1st Place Playoff (3rd/5th Place Playoffs optional at TD discretion).
+Round robin: used for ≤ 7 teams.
+≥ 8 teams: First‑match‑loser consolation draw format.
+USPA 100: Should follow ^, but more flexibility (confirm with USPA in advance; for instance, the format must offer the same or more matches to play than ^).
+
 * For each respective division a.k.a. category you are running:
     * i) Select from the sidebar menu either “Group Stage” (for Round Robin) or “Knockout Stage” (for First-match-loser-consolation – and, if applicable, for Playoff stage of Round Robin) depending on the USPA “Required draw format per entries” count in that division (see Instructions 4.v).
     * ii) Select the division a.k.a. category from the “All Categories” orange button dropdown.
