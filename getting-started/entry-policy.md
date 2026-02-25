@@ -2,7 +2,7 @@
 
 ## Entries Open
 
-TDs should encourage all players to enter on the tournament's registration page prior to the entry deadline. All players need **1) a free WPR profile (worldpadelrating.com) for any tournament + 2) either a free USPA account or a paid USPA membership (padelusa.org/members) depending on the tournament**, whether that is to enter themselves or to be entered as someone's partner. USPA/WPR cannot assist in manually entering players.
+TDs must encourage all players to enter on the tournament's registration page prior to the entry deadline. All players need **1) a free WPR profile (worldpadelrating.com) for any tournament + 2) either a free USPA account or a paid USPA membership (padelusa.org/members) depending on the tournament**, whether that is to enter themselves or to be entered as someone's partner. USPA/WPR cannot assist in manually entering players.
 
 Video instructions for players for how to register, if needed, are available here: https://www.youtube.com/shorts/YoHyGSbmQ4A
 
