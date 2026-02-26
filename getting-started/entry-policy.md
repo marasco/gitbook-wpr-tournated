@@ -6,6 +6,8 @@ TDs must encourage all players to enter on the tournament's registration page pr
 
 Video instructions for players for how to register, if needed, are available here: https://www.youtube.com/shorts/YoHyGSbmQ4A
 
+Women are permitted to play Men's divisions either as woman/woman teams or as woman/man teams, but do not receive USPA ranking points for matches played in Men's.
+
 ## Membership Requirements
 
 * **USPA 100:** **Free USPA account** is sufficient.
