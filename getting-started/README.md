@@ -10,8 +10,8 @@
 * [ ] Registration opens.
 * [ ] Receive login credentials to your club's **TMS** ([https://manager.tournated.com](https://manager.tournated.com/)).
 * [ ] Review **this document's Instructions Step 3-7**, and also familiarize with USPA Rules & Regulations ([https://padelusa.org/competition/rules-and-regulations/](https://padelusa.org/competition/rules-and-regulations/)).
-* [ ] At deadline, **review Entry List** from USPA (includes seeding), and make changes if any needed. (\*IMPORTANT Note: If any late entries and/or any teams changing divisions and/or partner changes, seedings may resultingly change -- add the entries, make changes, and determine seedings by consulting USPA ranking points: Women, Men -- [https://docs.google.com/spreadsheets/d/1yOASWGurpauWqPAWxVNB1lPb6DYtXftg/edit?usp=sharing\&ouid=108602083471399457205\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1yOASWGurpauWqPAWxVNB1lPb6DYtXftg/edit?usp=sharing\&ouid=108602083471399457205\&rtpof=true\&sd=true), [https://docs.google.com/spreadsheets/d/1UzFDUtBNjUxHGGcFe1dC6s43hbfCUf37/edit?gid=953756506#gid=953756506](https://docs.google.com/spreadsheets/d/1UzFDUtBNjUxHGGcFe1dC6s43hbfCUf37/edit?gid=953756506#gid=953756506). See Instructions Step 5 below for details.)
-* [ ] **Create draws & schedule** in TMS.
+* [ ] At deadline, **review Entry List** from USPA (includes seeding), and make changes if any needed. (\*IMPORTANT Note: If any late entries and/or any teams changing divisions and/or partner changes, seedings may resultingly change -- add the entries, make changes, and determine seedings by consulting USPA ranking points at padelusa.org/rankings. See Instructions Step 5 below for details.)
+* [ ] **Create draws & schedule** in TMS. Publish by 3pm local time on Monday (Tuesday for USPA 100s).
 * [ ] Manage **in‑tournament scoring** in TMS.
 * [ ] Use **Stripe** to issue any necessary refunds for withdrawals.
 
