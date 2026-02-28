@@ -6,7 +6,7 @@ Enter scores directly in TMS; public draws update automatically.
 
 ## Steps
 
-* **Edit match:** Click “Edit match” / pencil icon button on a match for score entry popup to appear.
+* **Select match:** You may select the match via multiple ways, whatever you prefer: In the draws themselves, click “Edit match” / pencil icon button on a match for score entry popup to appear. In the Order of Play, the Timeline view --> "Add score" may be most convenient for following chronological order.
 * **Enter score:** In the square fields.
 * **Ensure correct winning team:** Select the winning team (click their name rectangle or the trophy icon next to it).
 * **Save:** Click orange “Save” button.
