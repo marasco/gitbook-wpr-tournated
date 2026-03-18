@@ -89,7 +89,8 @@ TDs must publish the draws & schedule by the following times or earlier, and inf
 1) Go to Tournament Overview on the left side --> Announcements button --> + Create --> in the "Create an announcement" popup enter & send a message from within the TMS. ("Make visible to all..." posts it on the tournament public page; "Send email and push notification..." sends it as an email & USPA app message.)
 
 or 
-3) Go to Participants on the left side --> i) check names to send notification from within the TMS or ii) use contact info listed (can download as a spreadsheet too) to send contact players outside of the TMS. (IMPORTANT: Be careful to have "Rows per page"-->"Show all" on the Participants tab, otherwise the draft email created only addresses to the first 25 players, which is the default # of rows/players in the Participants tab.) 
+
+2) Go to Participants on the left side --> i) check names to send notification from within the TMS or ii) use contact info listed (can download as a spreadsheet too) to send contact players outside of the TMS. (IMPORTANT: Be careful to have "Rows per page"-->"Show all" on the Participants tab, otherwise the draft email created only addresses to the first 25 players, which is the default # of rows/players in the Participants tab.) 
 
 **TIP:** Project the Order of Play with auto-scroll onto a TV screen in your club. To do so, in the Order of Play tab, click the TV icon button. This cycles through all the tournament's matches in a grid view, noting scores as you enter them and noting which matches are Completed vs. Upcoming. (Matches must be assigned courts in order to make use of Order of Play functionality.)
 
